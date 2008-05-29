@@ -1,7 +1,21 @@
 %% modelo de documento desenvolvido pelo Grupo de Pesquisa Genos
 %% www.genos.mus.br
 \documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage[portuguese]{babel}
+%\usepackage[htt]{hyphenat}
+\usepackage{times}
+\usepackage{color}
 \usepackage{anppom2008}
+
+\newcounter{notecounter}
+
+\newcommand{\note}[1]{
+  \addtocounter{notecounter}{1}
+  \textcolor{red}{[note \arabic{notecounter}: #1]}
+}
+
+\newcommand{\rameau}{\textit{Rameau}}
 
 \begin{document}
 \graphicspath{{figs-out/}{out/}}
@@ -36,11 +50,33 @@ livro \cite[275]{kliewer75:aspects}, de publicação em periódico
 \cite{kroger.ea06:processo}, e de documento eletrônico .
 
 
+\section{Rameau}
+\label{sec:rameau}
+
+Todo o trabalho descrito nesse artigo foi desenvolvido usando o
+sistema \rameau{} \note{citar icmc?} para análise automática de harmonia
+e extração de informação musical. \rameau{}  é um framework para
+implementação de algoritmos de análise harmônica de partituras
+simbólicas. As partituras são guardadas em arquivos no formato
+Lilypond \cite{nienhuys.ea08:lilypond}, que permite diferenciação de
+notas enarmônicas e geração de partituras bem tipografadas. As notas
+são extraídas das partituras e apresentadas a uma rede neural, que
+associa cada conjunto de notas a um acorde.  Para esse trabalho, o
+\rameau{}  foi extendido para realizar operações comuns de musicologia,
+como detecção de cruzamentos, quintas ou oitavas consecutivas,
+cadências frequentes, etc.
+
+Além disso \rameau{}  possui vários outros algoritmos para análise
+harmônica, como o de Pardo e Birmingham \cite{pardo.ea00:automated},
+outras redes neurais e classificadores de árvores de decisão e
+k-vizinhos-mais-próximos. Atualmente \rameau{}  está sendo extendido para
+realizar análise funcional de qualquer peça tonal.
+
 %%% final do texto. Não edite a partir daqui.
 
 \renewcommand{\refname}{Referências Bibliográficas}
 \bibliographystyle{kchicago}
-\bibliography{writing-style,harmonic-analysis,melodic-contour,music-harmony-and-theory}
+\bibliography{writing-style,harmonic-analysis,melodic-contour,music-harmony-and-theory,programs}
 
 %% Obs.: estas bibliotecas bibtex estão em http://git.genos.mus.br/?p=bib.git;a=summary
 
