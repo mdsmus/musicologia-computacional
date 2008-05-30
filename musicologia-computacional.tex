@@ -1,5 +1,3 @@
-%% modelo de documento desenvolvido pelo Grupo de Pesquisa Genos
-%% www.genos.mus.br
 \documentclass{article}
 \usepackage[T1]{fontenc}
 \usepackage[portuguese]{babel}
@@ -18,9 +16,7 @@
 \newcommand{\rameau}{\textit{Rameau}}
 
 \begin{document}
-\graphicspath{{figs-out/}{out/}}
-
-%%% prolegômenos
+\graphicspath{{figs/}}
 
 \title{Título do trabalho}
 \author{Autor}{Filiação acadêmica}{e-mail}{website}
@@ -31,40 +27,25 @@
 
 \keywords{até cinco palavras-chave que descrevam o assunto do texto}
 
-%%% texto. Escreva a partir daqui.
-
-\section{Sub-título 1}
-\label{sec:sub-titulo-1}
-
-Texto texto texto texto texto texto texto texto texto texto texto
-texto texto texto texto texto texto texto texto texto texto texto
-texto texto texto texto texto texto texto texto texto texto texto
-texto texto texto texto\footnote{Nota de rodapé.}.
-
-\subsection{Sub-título 2}
-\label{sec:sub-titulo-2}
-
-Exemplo de citação de livro \cite{turabian96:manual}, de capítulo de
-livro \cite[275]{kliewer75:aspects}, de publicação em periódico
-\cite{forte02:olivier}, publicação em anais de evento
-\cite{kroger.ea06:processo}, e de documento eletrônico .
+\section{Introdução}
+\label{sec:introducao}
 
 
 \section{Rameau}
 \label{sec:rameau}
 
 Todo o trabalho descrito nesse artigo foi desenvolvido usando o
-sistema \rameau{} \note{citar icmc?} para análise automática de harmonia
-e extração de informação musical. \rameau{}  é um framework para
-implementação de algoritmos de análise harmônica de partituras
-simbólicas. As partituras são guardadas em arquivos no formato
-Lilypond \cite{nienhuys.ea08:lilypond}, que permite diferenciação de
-notas enarmônicas e geração de partituras bem tipografadas. As notas
-são extraídas das partituras e apresentadas a uma rede neural, que
-associa cada conjunto de notas a um acorde.  Para esse trabalho, o
-\rameau{}  foi extendido para realizar operações comuns de musicologia,
-como detecção de cruzamentos, quintas ou oitavas consecutivas,
-cadências frequentes, etc.
+sistema \rameau{} \note{citar icmc? kroger: sim} para análise
+automática de harmonia e extração de informação musical. \rameau{} é
+um framework para implementação de algoritmos de análise harmônica de
+partituras simbólicas. As partituras são guardadas em arquivos no
+formato Lilypond \cite{nienhuys.ea08:lilypond}, que permite
+diferenciação de notas enarmônicas e geração de partituras bem
+tipografadas. As notas são extraídas das partituras e apresentadas a
+uma rede neural, que associa cada conjunto de notas a um acorde. Para
+esse trabalho, o \rameau{} foi extendido para realizar operações
+comuns de musicologia, como detecção de cruzamentos, quintas ou
+oitavas consecutivas, cadências frequentes, etc.
 
 Além disso \rameau{}  possui vários outros algoritmos para análise
 harmônica, como o de Pardo e Birmingham \cite{pardo.ea00:automated},
@@ -72,12 +53,91 @@ outras redes neurais e classificadores de árvores de decisão e
 k-vizinhos-mais-próximos. Atualmente \rameau{}  está sendo extendido para
 realizar análise funcional de qualquer peça tonal.
 
-%%% final do texto. Não edite a partir daqui.
+\section{Análise}
+\label{sec:analise}
+
+\subsection{Âmbitos}
+\label{sec:ambitos}
+
+
+* soprano
+
+graves
+
+186 034* 050 068 075 223 049 070 100 165 185 197 214 325 348 158 175
+205 239 352 087 110 244
+
+agudos
+
+116 254 282 298 331 334
+
+* alto
+
+graves
+
+345 186
+
+agudos
+
+024 028 033 036 057 058 069 078 084 123 217 225 248 252 329 331 334
+354 359
+
+* tenor
+
+graves
+
+229 070 205
+
+agudos
+
+024 043 074 083 151 156 224 248 263 264 273 276 281 329 354 371
+
+* baixo
+
+graves
+
+034 051 214 223 340 131 328 143 155 197 205 219 241 187 235 319 337
+240 070 075 165 175 239
+
+agudos
+
+285 312 331
+
+\subsection{Cruzamento de vozes}
+\label{sec:cruzamento-de-vozes}
+
+851 cruzamentos 
+
+para evitar quintas e oitavas consecutivas
+
+para manter melhor condução de vozes
+
+\subsection{Quintas e oitavas consecutivas}
+\label{sec:quintas-e-oitavas}
+
+fermata (continuação)
+
+sem razao 118, 152, 244, 279 (oitava-unissono), 239
+
+nota melodica 351
+
+\subsection{Sétimas}
+\label{sec:setimas}
+
+acorde de passagem
+
+bizarro
+
+arpejo
+
+perde sétima
+
+ascendente
+
+(ver setimas koechlin)
 
 \renewcommand{\refname}{Referências Bibliográficas}
 \bibliographystyle{kchicago}
 \bibliography{writing-style,harmonic-analysis,melodic-contour,music-harmony-and-theory,programs}
-
-%% Obs.: estas bibliotecas bibtex estão em http://git.genos.mus.br/?p=bib.git;a=summary
 
 \end{document}
