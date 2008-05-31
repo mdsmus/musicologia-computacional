@@ -35,17 +35,19 @@
 \label{sec:rameau}
 
 Todo o trabalho descrito nesse artigo foi desenvolvido usando o
-sistema \rameau{}  \cite{kroger08a:rameau} para análise automática de
-harmonia e extração de informação musical. \rameau{} é um framework
-para implementação de algoritmos de análise harmônica de partituras
-simbólicas. As partituras são guardadas em arquivos no formato
-Lilypond \cite{nienhuys.ea08:lilypond}, que permite diferenciação de
-notas enarmônicas e geração de partituras bem tipografadas. As notas
-são extraídas das partituras e apresentadas a uma rede neural, que
-associa cada conjunto de notas a um acorde. Para esse trabalho, o
-\rameau{} foi extendido para realizar operações comuns de musicologia,
-como detecção de cruzamentos, quintas ou oitavas consecutivas,
-cadências frequentes, etc.
+sistema \rameau{} \footnote{Èstá descrito em outro trabalho do autor,
+  a citação foi removida por anonimato e será acrescentada na ocasião
+  da publicação.} para análise automática de harmonia e extração de
+informação musical. \rameau{} é um framework para implementação de
+algoritmos de análise harmônica de partituras simbólicas. As
+partituras são guardadas em arquivos no formato Lilypond
+\cite{nienhuys.ea08:lilypond}, que permite diferenciação de notas
+enarmônicas e geração de partituras bem tipografadas. As notas são
+extraídas das partituras e apresentadas a uma rede neural, que associa
+cada conjunto de notas a um acorde. Para esse trabalho, o \rameau{}
+foi extendido para realizar operações comuns de musicologia, como
+detecção de cruzamentos, quintas ou oitavas consecutivas, cadências
+frequentes, etc.
 
 Além disso \rameau{}  possui vários outros algoritmos para análise
 harmônica, como o de Pardo e Birmingham \cite{pardo.ea00:automated},
@@ -58,7 +60,7 @@ o lilypond por uma ferramenta automática e depois corrigidos
 manualmente para remover erros de enarmonia e notas incorretas. Usamos
 gabaritos manuais de análise harmônica para validar os algoritmos de
 análise, e o algoritmo escolhido para análise de cadências encontra
-corretamente em torno de 98\% dos acordes \cite{kroger08a:rameau}.
+corretamente em torno de 98\% dos acordes \footnote{Idem.}.
 
 \section{Metodologia}
 \label{sec:metodologia}
