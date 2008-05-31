@@ -5,7 +5,7 @@
 \usepackage{color}
 \RequirePackage{url}
 \RequirePackage[utf8,utf8x]{inputenc}
-\RequirePackage{babel}
+\RequirePackage[brazil]{babel}
 \usepackage[FIGBOTCAP,TABBOTCAP]{subfigure}
 \usepackage{graphicx,url}
 
@@ -16,24 +16,21 @@
   \textcolor{red}{[note \arabic{notecounter}: #1]}
 }
 
+\def\abovestrut#1{\rule[0in]{0in}{#1}\ignorespaces}
+\def\belowstrut#1{\rule[-#1]{0in}{#1}\ignorespaces}
+
+\def\abovespace{\abovestrut{0.20in}}
+\def\aroundspace{\abovestrut{0.20in}\belowstrut{0.10in}}
+\def\belowspace{\belowstrut{0.10in}}
+
 \newcommand{\rameau}{\textit{Rameau}}
 
 \begin{document}
 \graphicspath{{figs/}}
 
-\title{Título do trabalho}
-\author{Autor}{Filiação acadêmica}{e-mail}{website}
-
-\begin{sumario}
-  Resumo do texto com até 100 palavras.  
-\end{sumario}
-
-\keywords{até cinco palavras-chave que descrevam o assunto do texto}
-
 \input{body-pt}
 
-\renewcommand{\refname}{Referências Bibliográficas}
-\bibliographystyle{kchicago}
+\bibliographystyle{plain}
 \bibliography{writing-style,harmonic-analysis,melodic-contour,music-harmony-and-theory,programs,music-scores,genos}
 
 \end{document}
