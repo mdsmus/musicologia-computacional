@@ -36,7 +36,7 @@
 \label{sec:rameau}
 
 Todo o trabalho descrito nesse artigo foi desenvolvido usando o
-sistema \rameau{} \footnote{Èstá descrito em outro trabalho do autor,
+sistema \rameau{}\footnote{Èstá descrito em outro trabalho do autor,
   a citação foi removida por anonimato e será acrescentada na ocasião
   da publicação.} para análise automática de harmonia e extração de
 informação musical. \rameau{} é um framework para implementação de
@@ -61,7 +61,7 @@ o lilypond por uma ferramenta automática e depois corrigidos
 manualmente para remover erros de enarmonia e notas incorretas. Usamos
 gabaritos manuais de análise harmônica para validar os algoritmos de
 análise, e o algoritmo escolhido para análise de cadências encontra
-corretamente em torno de 98\% dos acordes \footnote{Idem.}.
+corretamente em torno de 98\% dos acordes\footnote{Idem.}.
 
 \section{Metodologia}
 \label{sec:metodologia}
@@ -81,7 +81,7 @@ profissionais e não pela congregação \cite{bach41:371}. Isso \note{nao
   começa com isso} se reflete na textura, cruzamentos e no âmbito
 vocal usado nos corais. A figura \ref{fig:ambito-kostka} mostra os
 âmbitos sugeridos por KP e os utilizados por Bach nos corais
-analizados. Bach amplia o âmbito de soprano e teror em uma segunda
+analizados. Bach amplia o âmbito de soprano e tenor em uma segunda
 maior ascendente, e o do contralto em uma segunda maior descendente. A
 voz do baixo tem ampliação de uma terça maior em ambas direções
 (comparando com KP). A tabela \ref{tab:notas-extremas} lista os corais
@@ -128,11 +128,11 @@ fato, dos corais com cruzamento, o cruzamento mais comum é entre tenor
 e contralto (64,6\%), mas o cruzamento entre tenor e baixo é quase tão
 comum (60\%). O cruzamento entre contralto e soprano é menos frequente
 (14,8\%) mas existente, contrariando a regra de não cruzar acima do
-soprano. De qualquer forma, a grade maioria (85\%) dos cruzamentos são
-curtos (nunca maiores que dois tempos). A análise de cruzamentos
+soprano. De qualquer forma, a grande maioria (85\%) dos cruzamentos
+são curtos (nunca maiores que dois tempos). A análise de cruzamentos
 mostra alguns exemplos interessantes: no coral 35 o contralto é a voz
-mais grave por um breve periodo de tempo (as vozes do tenor e baixo estão
-acima da voz do contralto) \note{fig}, e no coral 290 existe um
+mais grave por um breve periodo de tempo (as vozes do tenor e baixo
+estão acima da voz do contralto) \note{fig}, e no coral 290 existe um
 cruzamento simultâneo de baixo com o tenor e do contralto com o
 soprano \note{fig}.
 
@@ -252,26 +252,24 @@ seguintes:
 \subsection{Cadências finais}
 \label{sec:cadencias}
 
-O programa identifica quase 78\% das cadências finais com o formato
-$x$ V I onde $x$ pode ser II, IV ou I (maior ou menor).
+O programa identifica 79\% das cadências finais (isso é, os três
+ultimos acordes diferentes) com o formato $x$ V I onde $x$ pode ser ii
+(menor ou diminuto), IV (maior ou menor), V/V (dominante secundária),
+ou I (maior ou menor) e último acorde pode ser maior ou menor.
 
-5,5\% (IV V I,  iv   V    I , ou iv   V    i)
-40\% (ii   V    I ou iiø  V    I, iiø  V    i
-32\% (i V i, i V I, I V I)
-
-10 corais  vii°/V (ou ø7) V    I (ou i)
-7 viiø V    I
-
-Na nossa opnião esse tipo de estudo é interessante para encontrar
-cadências pouco usadas, como
-
- I    vii° I    [1] found in: (003 end) 
+A cadência mais comum é do tipo II V I (36\%), seguida por I V I
+(32\%). As cadências IV VI (6\%) e V/V V I (5\%) são estatisticamente
+insignificantes. Apenas 3\% dos corais tem a cadência vii°/V V I, e
+apenas 2\% to tipo viiø V I.
 
 Apesar do algoritmo para analisar as cadências finais ser
-relativamente ingênuo, ele acha um número pequeno de falsos positivos,
-por exemplo, antecipação:
-
- V    iii  I    [2] found in: (362 end) (341 end) 
+relativamente ingênuo, ele identifica de maneira errada 16\% dos
+corais. Por exemplo, a cadência final do coral 362 é I$^6_4$ V7 I, mas
+o algoritmo interpreta a antecipação para a terça do acorde final como
+um acorde menor do terceiro grau (iii). Além disso, como o algoritmo
+sempre considera que o acorde final é de tônica, ele classifica
+eroneamente os corais que terminam em acordes diferentes da tônica,
+como os que terminam em meia-cadência.
 
 \section{Avaliação}
 \label{sec:avaliacao}
