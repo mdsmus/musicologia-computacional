@@ -1,4 +1,4 @@
-NAME = musicologia-computacional
+NAME = musicologia-computacional-simples
 TEXSRC = body-pt
 
 -include ~/lib/make/latex.mk
