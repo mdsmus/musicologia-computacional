@@ -2,6 +2,7 @@
 \usepackage[T1]{fontenc}
 \usepackage[portuguese]{babel}
 %\usepackage[htt]{hyphenat}
+\usepackage{amsmath}
 \usepackage{times}
 \usepackage{color}
 \usepackage{anppom2008}
@@ -86,29 +87,33 @@ voz do baixo tem ampliação de uma terça maior em ambas direções
 (comparando com KP). A tabela \ref{tab:notas-extremas} lista os corais
 onde as notas mais agudas e graves ocorrem em cada voz.
 
-\begin{table}
-  \centering
-  \begin{tabular}{l|p{4cm}p{4cm}}
-    & nota mais aguda & nota mais grave \\
+\begin{table}[t]
+\begin{center}
+\begin{small}
+\begin{sc}
+  \begin{tabular}{r|p{4cm}p{4cm}}
+    & nota mais aguda & nota mais grave \\ 
     \hline
-    soprano & 116 254 282 298 331 334 & 186 034 050 068 075 223 049 070 100 165 185 197 214 325 348 158 175
-    205 239 352 087 110 244 \\
+    soprano &  116 254 282 298 331 334 &  186 034 050 068 075 223 049 070 100 165 185 197 214 325 348 158 175
+    205 239 352 087 110 244 \\ \aroundspace
     contralto & 024 028 033 036 057 058 069 078 084 123 217 225 248 252 329 331 334
-    354 359 & 345 186 \\
-    tenor & 024 043 074 083 151 156 224 248 263 264 273 276 281 329
-    354 371 & 229 070 205 \\
-    baixo & 285 312 331 & 034 051 214 223 340 131 328 143 155 197 205 219 241 187 235 319 337
-    240 070 075 165 175 239 \\
+    354 359 &   345 186 \\ \aroundspace
+    tenor &   024 043 074 083 151 156 224 248 263 264 273 276 281 329
+    354 371 &   229 070 205 \\ \aroundspace
+    baixo &   285 312 331 &   034 051 214 223 340 131 328 143 155 197 205 219 241 187 235 319 337
+    240 070 075 165 175 239 
   \end{tabular}
   \caption{Corais com notas extremas}
   \label{tab:notas-extremas}
+\end{sc}
+\end{small}
+\end{center}
 \end{table}
 
 \begin{figure}
   \centering
   \includegraphics[scale=2.5]{ambitos}
-  \caption{Comparação de âmbito utilizado por Bach e definido por
-    Kostka e Payne}
+  \caption{Comparação de âmbito utilizado por Bach e definido por Kostka e Payne}
   \label{fig:ambito-kostka}
 \end{figure}
 
