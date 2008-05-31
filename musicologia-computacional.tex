@@ -61,7 +61,7 @@ o lilypond por uma ferramenta automática e depois corrigidos
 manualmente para remover erros de enarmonia e notas incorretas. Usamos
 gabaritos manuais de análise harmônica para validar os algoritmos de
 análise, e o algoritmo escolhido para análise de cadências encontra
-corretamente em torno de 98\% dos acordes \footnote{Idem.}.
+corretamente em torno de 98\% dos acordes\footnote{Idem.}.
 
 \section{Metodologia}
 \label{sec:metodologia}
@@ -243,17 +243,21 @@ ascendente
 O programa identifica 79\% das cadências finais (isso é, os três
 ultimos acordes diferentes) com o formato $x$ V I onde $x$ pode ser ii
 (menor ou diminuto), IV (maior ou menor), V/V (dominante secundária),
-ou I (maior ou menor) e último acorde pode ser maior ou menor. A
-cadência mais comum é do tipo II V I (36\%), seguida por I V I (32\%).
-As cadências IV VI (6\%) e V/V V I (5\%) são estatisticamente
-insignificantes. Apenas 3\% dos corais tem a cadência vii°/V  V I, e
+ou I (maior ou menor) e último acorde pode ser maior ou menor.
+
+A cadência mais comum é do tipo II V I (36\%), seguida por I V I
+(32\%). As cadências IV VI (6\%) e V/V V I (5\%) são estatisticamente
+insignificantes. Apenas 3\% dos corais tem a cadência vii°/V V I, e
 apenas 2\% to tipo viiø V I.
 
 Apesar do algoritmo para analisar as cadências finais ser
-relativamente ingênuo, ele acha um número pequeno de falsos positivos,
-por exemplo, o coral 362 tem I$^6_4$ V7 I como cadência final, mas o
-algoritmo interpreta a antecipação para a terça do acorde final como
-um acorde menor do terceiro grau (iii).
+relativamente ingênuo, ele identifica de maneira errada 16\% dos
+corais. Por exemplo, a cadência final do coral 362 é I$^6_4$ V7 I, mas
+o algoritmo interpreta a antecipação para a terça do acorde final como
+um acorde menor do terceiro grau (iii). Além disso, como o algoritmo
+sempre considera que o acorde final é de tônica, ele classifica
+eroneamente os corais que terminam em acordes diferentes da tônica,
+como os que terminam em meia-cadência.
 
 \section{Avaliação}
 \label{sec:avaliacao}
