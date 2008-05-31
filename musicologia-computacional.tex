@@ -35,8 +35,7 @@
 \label{sec:rameau}
 
 Todo o trabalho descrito nesse artigo foi desenvolvido usando o
-sistema \rameau{} \note{citar icmc? kroger: sim kroger: alias nao
-  porque é anonimo, colocar uma nota} para análise automática de
+sistema \rameau{}  \cite{kroger08a:rameau} para análise automática de
 harmonia e extração de informação musical. \rameau{} é um framework
 para implementação de algoritmos de análise harmônica de partituras
 simbólicas. As partituras são guardadas em arquivos no formato
@@ -53,6 +52,13 @@ harmônica, como o de Pardo e Birmingham \cite{pardo.ea00:automated},
 outras redes neurais e classificadores de árvores de decisão e
 k-vizinhos-mais-próximos. Atualmente \rameau{}  está sendo extendido para
 realizar análise funcional de qualquer peça tonal.
+
+Os corais utiliados nesse artigo foram extraídos do formato MIDI para
+o lilypond por uma ferramenta automática e depois corrigidos
+manualmente para remover erros de enarmonia e notas incorretas. Usamos
+gabaritos manuais de análise harmônica para validar os algoritmos de
+análise, e o algoritmo escolhido para análise de cadências encontra
+corretamente em torno de 98\% dos acordes \cite{kroger08a:rameau}.
 
 \section{Metodologia}
 \label{sec:metodologia}
@@ -241,6 +247,6 @@ quase 78\% x V I onde x é II, IV ou I
 
 \renewcommand{\refname}{Referências Bibliográficas}
 \bibliographystyle{kchicago}
-\bibliography{writing-style,harmonic-analysis,melodic-contour,music-harmony-and-theory,programs,music-scores}
+\bibliography{writing-style,harmonic-analysis,melodic-contour,music-harmony-and-theory,programs,music-scores,genos}
 
 \end{document}
