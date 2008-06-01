@@ -13,9 +13,9 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.45.1"
-   sodipodi:docname="340.svg"
+   sodipodi:docname="340-alema.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:docbase="/tmp/foobar">
+   sodipodi:docbase="/home/marcos/profissional/genos/genos-repos/musicologia-computacional/figs">
   <metadata
      id="metadata3738">
     <rdf:RDF>
@@ -43,7 +43,7 @@
      inkscape:guide-bbox="true"
      inkscape:zoom="13.911385"
      inkscape:cx="26.616648"
-     inkscape:cy="276.98043"
+     inkscape:cy="276.84169"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2" />
@@ -2376,19 +2376,19 @@
     </font>
   </defs>
   <g
-     id="g11075">
+     id="g18691">
     <g
-       id="g10844">
-      <g
-         transform="matrix(1.757299,0,0,1.757299,9.9999999,8.786495)"
-         id="g795">
-        <text
-           style="font-size:2.19953132px;fill:currentColor;font-family:Schoolbook"
-           id="text797">
-          <tspan
-             id="tspan799" />
-        </text>
-      </g>
+       id="g795"
+       transform="matrix(1.757299,0,0,1.757299,9.9999999,8.786495)">
+      <text
+         id="text797"
+         style="font-size:2.19953132px;fill:currentColor;font-family:Schoolbook">
+        <tspan
+           id="tspan799" />
+      </text>
+    </g>
+    <g
+       id="g18465">
       <g
          transform="matrix(1.757299,0,0,1.757299,29.23925,7.696335)"
          id="g2189">
@@ -3323,13 +3323,13 @@
            id="rect2839" />
       </g>
       <g
-         transform="matrix(1.757299,0,0,1.757299,-2.1687229,2.276573)"
+         transform="matrix(1.757299,0,0,1.757299,27.831277,2.276573)"
          id="g2855">
         <text
            style="font-size:1.74550986px;fill:currentColor;font-family:Schoolbook"
            id="text2857">
           <tspan
-             id="tspan2859">10</tspan>
+             id="tspan2859">11</tspan>
         </text>
       </g>
       <g
@@ -3345,14 +3345,14 @@
       </g>
     </g>
     <path
-       transform="translate(0.2156507,0.6469521)"
+       transform="translate(0.215651,0.6469521)"
        d="M 40.398564 21.11087 A 2.7315755 12.795275 0 1 1  34.935413,21.11087 A 2.7315755 12.795275 0 1 1  40.398564 21.11087 z"
        sodipodi:ry="12.795275"
        sodipodi:rx="2.7315755"
        sodipodi:cy="21.11087"
        sodipodi:cx="37.666988"
        id="path11073"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        sodipodi:type="arc" />
   </g>
 </svg>
