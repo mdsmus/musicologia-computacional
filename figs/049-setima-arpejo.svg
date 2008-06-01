@@ -42,7 +42,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="14.422839"
-     inkscape:cx="42.366223"
+     inkscape:cx="42.366224"
      inkscape:cy="235.83125"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -2381,7 +2381,7 @@
     </font>
   </defs>
   <g
-     id="g10605">
+     id="g4923">
     <g
        id="g795"
        transform="matrix(1.757299,0,0,1.757299,9.9999999,8.786495)">
@@ -2838,12 +2838,10 @@
            style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
       </g>
     </g>
-    <rect
-       y="64.868172"
-       x="32.784935"
-       height="7.6961269"
-       width="24.405735"
-       id="rect9958"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccc"
+       id="path3632"
+       d="M 56.83141,70.414929 C 58.63631,73.601775 37.299074,72.41442 32.240532,71.246944 C 27.600979,68.40996 52.821894,58.642916 56.83141,70.414929 z "
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
 </svg>

@@ -13,7 +13,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.45.1"
-   sodipodi:docname="analysis-244.svg"
+   sodipodi:docname="244-oitava.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docbase="/home/marcos/profissional/genos/genos-repos/musicologia-computacional/figs">
   <metadata
@@ -2376,7 +2376,7 @@
     </font>
   </defs>
   <g
-     id="g22416">
+     id="g2898">
     <g
        transform="translate(5.6905512,5)"
        id="g799">
@@ -3116,12 +3116,14 @@
         </text>
       </g>
     </g>
-    <rect
-       y="0.51986313"
-       x="15.271174"
-       height="10.100588"
-       width="11.100005"
-       id="rect20292"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.32683256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 26.56182 5.6542974 A 5.3634443 4.1715679 0 1 1  15.834931,5.6542974 A 5.3634443 4.1715679 0 1 1  26.56182 5.6542974 z"
+       sodipodi:ry="4.1715679"
+       sodipodi:rx="5.3634443"
+       sodipodi:cy="5.6542974"
+       sodipodi:cx="21.198376"
+       id="path2896"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="arc" />
   </g>
 </svg>

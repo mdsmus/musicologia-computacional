@@ -2420,7 +2420,7 @@
     </font>
   </defs>
   <g
-     id="g4961">
+     id="g2823">
     <g
        transform="translate(5.6905512,5)"
        id="g799">
@@ -2990,17 +2990,20 @@
         </text>
       </g>
     </g>
-    <rect
-       y="6.3142886"
-       x="11.401072"
-       height="15.02112"
-       width="3.9529262"
-       id="rect2813"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cc"
        id="path2819"
        d="M 7.6561939,4.7747277 C 12.125431,2.5956712 15.119104,3.0822537 18.3499,5.4820934"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       transform="translate(-1.1234632,0.4160975)"
+       d="M 16.976778 13.283921 A 2.3925607 8.051487 0 1 1  12.191656,13.283921 A 2.3925607 8.051487 0 1 1  16.976778 13.283921 z"
+       sodipodi:ry="8.051487"
+       sodipodi:rx="2.3925607"
+       sodipodi:cy="13.283921"
+       sodipodi:cx="14.584217"
+       id="path2689"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="arc" />
   </g>
 </svg>
