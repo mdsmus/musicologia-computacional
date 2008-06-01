@@ -25,7 +25,7 @@ partituras são guardadas em arquivos no formato Lilypond
 enarmônicas e geração de partituras bem tipografadas. As notas são
 extraídas das partituras e apresentadas a uma rede neural, que associa
 cada conjunto de notas a um acorde.  Para coletar os dados usados
-neste artigo o \rameau{} foi extendido para realizar operações comuns
+neste artigo o \rameau{} foi estendido para realizar operações comuns
 de musicologia, como detecção de cruzamentos, quintas ou oitavas
 consecutivas, cadências frequentes, etc.
 
@@ -43,7 +43,7 @@ os dados encontrados.
 Além disso \rameau{} possui vários outros algoritmos para análise
 harmônica, como o de \cite{pardo.ea00:automated}, outras redes neurais
 e classificadores de árvores de decisão e k-vizinhos-mais-próximos.
-Atualmente \rameau{} está sendo extendido para realizar análise
+Atualmente \rameau{} está sendo estendido para realizar análise
 funcional de qualquer peça tonal.
 
 Os corais utilizados neste artigo foram extraídos do formato MIDI para
@@ -64,7 +64,7 @@ profissionais e não pela congregação \cite{bach41:371} \note{não gosto
   de ``escritos para serem cantados'' kroger: sugestoes?}. Esse fato
 se reflete na textura, cruzamentos e no âmbito vocal usado nos corais.
 A figura \ref{fig:ambito-kostka} mostra os âmbitos sugeridos por KP e
-os utilizados por Bach nos corais analizados. Bach amplia o âmbito de
+os utilizados por Bach nos corais analisados. Bach amplia o âmbito de
 soprano e tenor em uma segunda maior ascendente, e o do contralto em
 uma segunda maior descendente. A voz do baixo tem ampliação de uma
 terça maior em ambas direções (comparando com KP). A tabela
@@ -118,7 +118,7 @@ graves ocorrem em cada voz.
 \subsection{Cruzamento de vozes}
 \label{sec:cruzamento-de-vozes}
 
-Dos corais analizados 209 tem cruzamentos entre as vozes (57\%). KP
+Dos corais analisados 209 tem cruzamentos entre as vozes (57\%). KP
 sugere evitar cruzamentos, principalmente acima do soprano ou abaixo
 do baixo. Eles permitem o cruzamento breve das linhas de contralto e
 tenor se existir uma razão musical \cite[p. 79]{kostka.ea00:tonal}. De
@@ -281,16 +281,16 @@ seguintes:
 \label{sec:cadencias}
 
 \rameau{} identifica 79\% das cadências finais (isso é, os três
-ultimos acordes diferentes) com o formato $x$ V I onde $x$ pode ser ii
+últimos acordes diferentes) com o formato $x$ V I onde $x$ pode ser ii
 (menor ou diminuto), IV (maior ou menor), V/V (dominante secundária),
 ou I (maior ou menor) e último acorde pode ser maior ou menor.
 
 A cadência mais comum é do tipo II V I (36\%), seguida por I V I
 (32\%). As cadências IV VI (6\%) e V/V V I (5\%) são estatisticamente
 insignificantes. Apenas 3\% dos corais tem a cadência vii°/V V I, e
-apenas 2\% to tipo viiø V I.
+apenas 2\% do tipo viiø V I.
 
-O lgoritmo para analisar as cadências finais identifica de maneira
+O algoritmo para analisar as cadências finais identifica de maneira
 errada 16\% dos corais. Por exemplo, a cadência final do coral 362 é
 I$^6_4$ V$_7$ I, mas o algoritmo interpreta a antecipação para a terça
 do acorde final como um acorde menor do terceiro grau (iii). Além
