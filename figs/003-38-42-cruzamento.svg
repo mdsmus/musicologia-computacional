@@ -2376,7 +2376,7 @@
     </font>
   </defs>
   <g
-     id="g3283">
+     id="g13818">
     <g
        id="g795"
        transform="matrix(1.757299,0,0,1.757299,-12,-8.786495)">
@@ -2387,8 +2387,17 @@
            id="tspan799" />
       </text>
     </g>
+    <path
+       d="M 56.969542 22.100254 A 16.370558 8.785533 0 1 1  24.228426,22.100254 A 16.370558 8.785533 0 1 1  56.969542 22.100254 z"
+       sodipodi:ry="8.785533"
+       sodipodi:rx="16.370558"
+       sodipodi:cy="22.100254"
+       sodipodi:cx="40.598984"
+       id="path3232"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="arc" />
     <g
-       id="g3147">
+       id="g13680">
       <g
          transform="matrix(1.5033449,0,0,1.757299,3.0000001,37.207366)"
          id="g817">
@@ -2985,15 +2994,14 @@
            ry="0.039999999"
            id="rect1077" />
       </g>
+      <text
+         style="font-size:3.06895113px;font-family:Schoolbook"
+         id="text2905"
+         x="42.28965"
+         y="5.0460739">
+        <tspan
+           id="tspan2907">7</tspan>
+      </text>
     </g>
-    <path
-       d="M 56.969542 22.100254 A 16.370558 8.785533 0 1 1  24.228426,22.100254 A 16.370558 8.785533 0 1 1  56.969542 22.100254 z"
-       sodipodi:ry="8.785533"
-       sodipodi:rx="16.370558"
-       sodipodi:cy="22.100254"
-       sodipodi:cx="40.598984"
-       id="path3232"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       sodipodi:type="arc" />
   </g>
 </svg>
