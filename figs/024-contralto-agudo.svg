@@ -4434,10 +4434,9 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
     </text>
   </g>
   <g
-     id="g66870"
-     transform="translate(-5.1709605,-118.70767)">
+     id="g21980">
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,-18.26569,144.2364)"
+       transform="matrix(1.6182114,0,0,1.6182114,-23.43665,25.52873)"
        id="g59842">
       <rect
          x="23.129082"
@@ -4448,7 +4447,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect59844" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,-18.26569,142.61819)"
+       transform="matrix(1.6182114,0,0,1.6182114,-23.43665,23.91052)"
        id="g59846">
       <rect
          x="23.129082"
@@ -4459,7 +4458,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect59848" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,-18.26569,144.2364)"
+       transform="matrix(1.6182114,0,0,1.6182114,-23.43665,25.52873)"
        id="g59850">
       <rect
          x="27.008644"
@@ -4470,7 +4469,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect59852" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,-18.26569,142.61819)"
+       transform="matrix(1.6182114,0,0,1.6182114,-23.43665,23.91052)"
        id="g59854">
       <rect
          x="27.008644"
@@ -4481,7 +4480,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect59856" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,-18.26569,140.99998)"
+       transform="matrix(1.6182114,0,0,1.6182114,-23.43665,22.29231)"
        id="g59858">
       <rect
          x="27.008644"
@@ -4492,7 +4491,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect59860" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,-18.26569,144.2364)"
+       transform="matrix(1.6182114,0,0,1.6182114,-23.43665,25.52873)"
        id="g59862">
       <rect
          x="33.116707"
@@ -4503,7 +4502,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect59864" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,-18.26569,142.61819)"
+       transform="matrix(1.6182114,0,0,1.6182114,-23.43665,23.91052)"
        id="g59866">
       <rect
          x="33.116707"
@@ -4514,7 +4513,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect59868" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,-18.26569,140.99998)"
+       transform="matrix(1.6182114,0,0,1.6182114,-23.43665,22.29231)"
        id="g59870">
       <rect
          x="33.116707"
@@ -4525,7 +4524,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect59872" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,-18.26569,144.2364)"
+       transform="matrix(1.6182114,0,0,1.6182114,-23.43665,25.52873)"
        id="g59874">
       <rect
          x="33.116707"
@@ -4536,7 +4535,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect59876" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,-18.26569,144.2364)"
+       transform="matrix(1.6182114,0,0,1.6182114,-23.43665,25.52873)"
        id="g59878">
       <rect
          x="36.996265"
@@ -4547,7 +4546,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect59880" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,-18.26569,144.2364)"
+       transform="matrix(1.6182114,0,0,1.6182114,-23.43665,25.52873)"
        id="g59882">
       <rect
          x="40.875828"
@@ -4558,7 +4557,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect59884" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,-18.26569,144.2364)"
+       transform="matrix(1.6182114,0,0,1.6182114,-23.43665,25.52873)"
        id="g59886">
       <rect
          x="49.309078"
@@ -4569,7 +4568,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect59888" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,-18.26569,142.61819)"
+       transform="matrix(1.6182114,0,0,1.6182114,-23.43665,23.91052)"
        id="g59890">
       <rect
          x="49.309078"
@@ -4580,7 +4579,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect59892" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,-18.26569,144.2364)"
+       transform="matrix(1.6182114,0,0,1.6182114,-23.43665,25.52873)"
        id="g59894">
       <rect
          x="54.884281"
@@ -4591,7 +4590,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect59896" />
     </g>
     <g
-       transform="matrix(0.4085859,0,0,1,3.3931718,0)"
+       transform="matrix(0.4085859,0,0,1,-1.7777887,-118.70767)"
        id="g66840">
       <g
          id="g59810"
@@ -4705,7 +4704,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </g>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,32.25042,138.6982)"
+       transform="matrix(1.6182114,0,0,1.6182114,27.079459,19.99053)"
        id="g59942">
       <rect
          x="0"
@@ -4716,7 +4715,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect59944" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,32.25042,149.09104)"
+       transform="matrix(1.6182114,0,0,1.6182114,27.079459,30.38337)"
        id="g59974">
       <rect
          x="0"
@@ -4727,7 +4726,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect59976" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,32.25042,128.30536)"
+       transform="matrix(1.6182114,0,0,1.6182114,27.079459,9.59769)"
        id="g59978">
       <rect
          x="0"
@@ -4738,7 +4737,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect59980" />
     </g>
     <g
-       transform="matrix(0.5827436,0,0,1.6182114,62.059283,133.9691)"
+       transform="matrix(0.5827436,0,0,1.6182114,56.888322,15.26143)"
        id="g60220">
       <polygon
          points="15.768691,-0.2 15.768691,0.2 0.04,0.2 0.04,-0.2 15.768691,-0.2 "
@@ -4748,7 +4747,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
     <g
        inkscape:transform-center-y="0.17803206"
        inkscape:transform-center-x="-4.6542774"
-       transform="matrix(0.5838728,-4.9821669e-2,0,1.6182114,63.97877,138.56262)"
+       transform="matrix(0.5838728,-4.9821669e-2,0,1.6182114,58.807809,19.85495)"
        id="g60230">
       <polygon
          points="15.768691,0.80829151 15.768691,1.2082915 0.04,0.2 0.04,-0.2 15.768691,0.80829151 "
@@ -4756,7 +4755,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
     </g>
     <g
-       transform="matrix(0.5785514,0,0,1.6182114,62.059283,152.32746)"
+       transform="matrix(0.5785514,0,0,1.6182114,56.888322,33.61979)"
        id="g60240">
       <polygon
          points="15.768691,-0.2 15.768691,0.2 0.04,0.2 0.04,-0.2 15.768691,-0.2 "
@@ -4764,7 +4763,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,12.692619,147.47283)"
+       transform="matrix(1.6182114,0,0,1.6182114,7.5216585,28.76516)"
        id="g60288">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -4774,7 +4773,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,14.472661,149.90014)"
+       transform="matrix(1.6182114,0,0,1.6182114,9.3017005,31.19247)"
        id="g60294">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -4784,7 +4783,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,7.0288791,147.47283)"
+       transform="matrix(1.6182114,0,0,1.6182114,1.8579186,28.76516)"
        id="g60300">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -4794,7 +4793,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,12.692619,125.06893)"
+       transform="matrix(1.6182114,0,0,1.6182114,7.5216585,6.36126)"
        id="g60306">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -4804,7 +4803,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,14.472661,127.49625)"
+       transform="matrix(1.6182114,0,0,1.6182114,9.3017005,8.78858)"
        id="g60312">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -4814,7 +4813,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,7.0288791,129.92357)"
+       transform="matrix(1.6182114,0,0,1.6182114,1.8579186,11.2159)"
        id="g60318">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -4824,7 +4823,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,5.6372173,138.6982)"
+       transform="matrix(1.6182114,0,0,1.6182114,0.4662568,19.99053)"
        id="g60366">
       <rect
          x="0"
@@ -4835,7 +4834,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60368" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,25.972468,140.99998)"
+       transform="matrix(1.6182114,0,0,1.6182114,20.801507,22.29231)"
        id="g60526">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -4845,7 +4844,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,25.972468,125.87804)"
+       transform="matrix(1.6182114,0,0,1.6182114,20.801507,7.17037)"
        id="g60532">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -4855,7 +4854,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,19.799702,128.30536)"
+       transform="matrix(1.6182114,0,0,1.6182114,14.628742,9.59769)"
        id="g60538">
       <rect
          x="-0.064999998"
@@ -4866,7 +4865,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60540" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,21.719189,149.09104)"
+       transform="matrix(1.6182114,0,0,1.6182114,16.548228,30.38337)"
        id="g60542">
       <rect
          x="-0.064999998"
@@ -4877,7 +4876,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60544" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,19.799702,149.09104)"
+       transform="matrix(1.6182114,0,0,1.6182114,14.628742,30.38337)"
        id="g60546">
       <rect
          x="-0.064999998"
@@ -4888,7 +4887,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60548" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,35.856604,125.06893)"
+       transform="matrix(1.6182114,0,0,1.6182114,30.685643,6.36126)"
        id="g60550">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -4898,7 +4897,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,21.614005,122.65002)"
+       transform="matrix(1.6182114,0,0,1.6182114,16.443044,3.94235)"
        id="g60556">
       <polygon
          points="3.9695618,-0.52038777 3.9695618,-0.12038777 0.04,0.2 0.04,-0.2 3.9695618,-0.52038777 "
@@ -4906,7 +4905,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,35.856604,126.68714)"
+       transform="matrix(1.6182114,0,0,1.6182114,30.685643,7.97947)"
        id="g60560">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -4916,7 +4915,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,35.856604,140.19088)"
+       transform="matrix(1.6182114,0,0,1.6182114,30.685643,21.48321)"
        id="g60566">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -4926,7 +4925,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,21.614005,137.4645)"
+       transform="matrix(1.6182114,0,0,1.6182114,16.443044,18.75683)"
        id="g60572">
       <polygon
          points="3.9695618,-0.52038777 3.9695618,-0.12038777 0.04,0.2 0.04,-0.2 3.9695618,-0.52038777 "
@@ -4934,7 +4933,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,35.856604,143.4273)"
+       transform="matrix(1.6182114,0,0,1.6182114,30.685643,24.71963)"
        id="g60576">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -4944,7 +4943,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,37.881274,128.30536)"
+       transform="matrix(1.6182114,0,0,1.6182114,32.710313,9.59769)"
        id="g60600">
       <rect
          x="-0.064999998"
@@ -4955,7 +4954,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60602" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,35.961787,128.30536)"
+       transform="matrix(1.6182114,0,0,1.6182114,30.790827,9.59769)"
        id="g60604">
       <rect
          x="-0.064999998"
@@ -4966,7 +4965,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60606" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,27.997139,128.30536)"
+       transform="matrix(1.6182114,0,0,1.6182114,22.826178,9.59769)"
        id="g60626">
       <rect
          x="-0.064999998"
@@ -4977,7 +4976,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60628" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,27.997139,149.09104)"
+       transform="matrix(1.6182114,0,0,1.6182114,22.826178,30.38337)"
        id="g60630">
       <rect
          x="-0.064999998"
@@ -4988,7 +4987,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60632" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,50.437175,149.09104)"
+       transform="matrix(1.6182114,0,0,1.6182114,45.266215,30.38337)"
        id="g60634">
       <rect
          x="-0.064999998"
@@ -4999,7 +4998,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60636" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,42.239739,149.09104)"
+       transform="matrix(1.6182114,0,0,1.6182114,37.068778,30.38337)"
        id="g60686">
       <rect
          x="-0.064999998"
@@ -5010,7 +5009,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60688" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,19.694518,126.68714)"
+       transform="matrix(1.6182114,0,0,1.6182114,14.523557,7.97947)"
        id="g60704">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5020,7 +5019,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,19.694518,129.11446)"
+       transform="matrix(1.6182114,0,0,1.6182114,14.523557,10.40679)"
        id="g60710">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5030,7 +5029,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,19.694518,141.80909)"
+       transform="matrix(1.6182114,0,0,1.6182114,14.523557,23.10142)"
        id="g60716">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5040,7 +5039,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,19.694518,149.09104)"
+       transform="matrix(1.6182114,0,0,1.6182114,14.523557,30.38337)"
        id="g60722">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5050,7 +5049,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,21.719189,128.30536)"
+       transform="matrix(1.6182114,0,0,1.6182114,16.548228,9.59769)"
        id="g60746">
       <rect
          x="-0.064999998"
@@ -5061,7 +5060,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60748" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,64.917326,125.87804)"
+       transform="matrix(1.6182114,0,0,1.6182114,59.746366,7.17037)"
        id="g60802">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5071,7 +5070,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,64.083953,128.30536)"
+       transform="matrix(1.6182114,0,0,1.6182114,58.912992,9.59769)"
        id="g60808">
       <rect
          x="-0.064999998"
@@ -5082,7 +5081,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60810" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,48.412505,131.53695)"
+       transform="matrix(1.6182114,0,0,1.6182114,43.241545,12.82928)"
        id="g60812">
       <polygon
          points="4.2311843,-0.0040355226 4.2311843,0.39596448 0.04,0.2 0.04,-0.2 4.2311843,-0.0040355226 "
@@ -5090,7 +5089,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,62.164467,128.30536)"
+       transform="matrix(1.6182114,0,0,1.6182114,56.993507,9.59769)"
        id="g60816">
       <rect
          x="-0.064999998"
@@ -5101,7 +5100,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60818" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,64.083953,149.09104)"
+       transform="matrix(1.6182114,0,0,1.6182114,58.912992,30.38337)"
        id="g60820">
       <rect
          x="-0.064999998"
@@ -5112,7 +5111,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60822" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,35.856604,149.39302)"
+       transform="matrix(1.6182114,0,0,1.6182114,30.685643,30.68535)"
        id="g60824">
       <polygon
          points="11.990308,0.42677293 11.990308,0.82677293 0.04,0.2 0.04,-0.2 11.990308,0.42677293 "
@@ -5120,7 +5119,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,55.219001,128.30536)"
+       transform="matrix(1.6182114,0,0,1.6182114,50.04804,9.59769)"
        id="g60828">
       <rect
          x="-0.064999998"
@@ -5131,7 +5130,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60830" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,55.219001,149.09104)"
+       transform="matrix(1.6182114,0,0,1.6182114,50.04804,30.38337)"
        id="g60832">
       <rect
          x="-0.064999998"
@@ -5142,7 +5141,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60834" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,62.059283,125.87804)"
+       transform="matrix(1.6182114,0,0,1.6182114,56.888322,7.17037)"
        id="g60836">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5152,7 +5151,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,62.059283,128.30536)"
+       transform="matrix(1.6182114,0,0,1.6182114,56.888322,9.59769)"
        id="g60842">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5162,7 +5161,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,62.059283,142.61819)"
+       transform="matrix(1.6182114,0,0,1.6182114,56.888322,23.91052)"
        id="g60848">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5172,7 +5171,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,62.059283,146.66372)"
+       transform="matrix(1.6182114,0,0,1.6182114,56.888322,27.95605)"
        id="g60854">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5182,7 +5181,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,68.734724,129.92357)"
+       transform="matrix(1.6182114,0,0,1.6182114,63.563763,11.2159)"
        id="g60866">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5192,7 +5191,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,73.105811,149.09104)"
+       transform="matrix(1.6182114,0,0,1.6182114,67.934851,30.38337)"
        id="g60872">
       <rect
          x="-0.064999998"
@@ -5203,7 +5202,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60874" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,71.186324,149.09104)"
+       transform="matrix(1.6182114,0,0,1.6182114,66.015364,30.38337)"
        id="g60876">
       <rect
          x="-0.064999998"
@@ -5214,7 +5213,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60878" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,62.164467,149.09104)"
+       transform="matrix(1.6182114,0,0,1.6182114,56.993507,30.38337)"
        id="g60880">
       <rect
          x="-0.064999998"
@@ -5225,7 +5224,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60882" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,59.712867,146.66372)"
+       transform="matrix(1.6182114,0,0,1.6182114,54.541907,27.95605)"
        id="g60884">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5235,7 +5234,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,71.08114,129.92357)"
+       transform="matrix(1.6182114,0,0,1.6182114,65.910179,11.2159)"
        id="g60890">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5245,7 +5244,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,71.08114,143.4273)"
+       transform="matrix(1.6182114,0,0,1.6182114,65.910179,24.71963)"
        id="g60896">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5255,7 +5254,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,71.08114,148.28193)"
+       transform="matrix(1.6182114,0,0,1.6182114,65.910179,29.57426)"
        id="g60902">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5265,7 +5264,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,71.186324,128.30536)"
+       transform="matrix(1.6182114,0,0,1.6182114,66.015364,9.59769)"
        id="g60926">
       <rect
          x="-0.064999998"
@@ -5276,7 +5275,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60928" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,42.134555,144.2364)"
+       transform="matrix(1.6182114,0,0,1.6182114,36.963594,25.52873)"
        id="g60930">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5286,7 +5285,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,37.881274,149.09104)"
+       transform="matrix(1.6182114,0,0,1.6182114,32.710313,30.38337)"
        id="g60954">
       <rect
          x="-0.064999998"
@@ -5297,7 +5296,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60956" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,35.961787,149.09104)"
+       transform="matrix(1.6182114,0,0,1.6182114,30.790827,30.38337)"
        id="g60958">
       <rect
          x="-0.064999998"
@@ -5308,7 +5307,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60960" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,48.517689,149.09104)"
+       transform="matrix(1.6182114,0,0,1.6182114,43.346728,30.38337)"
        id="g60962">
       <rect
          x="-0.064999998"
@@ -5319,7 +5318,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect60964" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,55.113818,127.49625)"
+       transform="matrix(1.6182114,0,0,1.6182114,49.942858,8.78858)"
        id="g60966">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5329,7 +5328,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,55.113818,145.85462)"
+       transform="matrix(1.6182114,0,0,1.6182114,49.942858,27.14695)"
        id="g60972">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5339,7 +5338,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,48.412505,125.06893)"
+       transform="matrix(1.6182114,0,0,1.6182114,43.241545,6.36126)"
        id="g60996">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5349,7 +5348,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,48.412505,126.68714)"
+       transform="matrix(1.6182114,0,0,1.6182114,43.241545,7.97947)"
        id="g61002">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5359,7 +5358,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,48.412505,143.4273)"
+       transform="matrix(1.6182114,0,0,1.6182114,43.241545,24.71963)"
        id="g61008">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5369,7 +5368,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,48.412505,145.04551)"
+       transform="matrix(1.6182114,0,0,1.6182114,43.241545,26.33784)"
        id="g61014">
       <text
          style="font-size:4px;fill:currentColor;font-family:Emmentaler"
@@ -5379,7 +5378,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
       </text>
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,50.437175,128.30536)"
+       transform="matrix(1.6182114,0,0,1.6182114,45.266215,9.59769)"
        id="g61038">
       <rect
          x="-0.064999998"
@@ -5390,7 +5389,7 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
          id="rect61040" />
     </g>
     <g
-       transform="matrix(1.6182114,0,0,1.6182114,48.517689,128.30536)"
+       transform="matrix(1.6182114,0,0,1.6182114,43.346728,9.59769)"
        id="g61042">
       <rect
          x="-0.064999998"
@@ -5402,33 +5401,13 @@ Music engraving by LilyPond 2.10.33—www.lilypond.org</tspan>
     </g>
     <text
        id="text66862"
-       y="123.2334"
-       x="31.515022"
+       y="4.5257282"
+       x="26.344061"
        style="font-size:3.42419767px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
-         y="123.2334"
-         x="31.515022"
+         y="4.5257282"
+         x="26.344061"
          id="tspan66864"
          sodipodi:role="line">5</tspan></text>
-    <path
-       transform="translate(-0.1533518,0.2300277)"
-       d="M 39.794783 126.3195 A 2.8753455 6.9008293 0 1 1  34.044092,126.3195 A 2.8753455 6.9008293 0 1 1  39.794783 126.3195 z"
-       sodipodi:ry="6.9008293"
-       sodipodi:rx="2.8753455"
-       sodipodi:cy="126.3195"
-       sodipodi:cx="36.919437"
-       id="path66866"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.53149605;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:type="arc" />
-    <path
-       sodipodi:type="arc"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.53149605;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path66868"
-       sodipodi:cx="36.919437"
-       sodipodi:cy="126.3195"
-       sodipodi:rx="2.8753455"
-       sodipodi:ry="6.9008293"
-       d="M 39.794783 126.3195 A 2.8753455 6.9008293 0 1 1  34.044092,126.3195 A 2.8753455 6.9008293 0 1 1  39.794783 126.3195 z"
-       transform="translate(12.543156,0.2300277)" />
   </g>
 </svg>
