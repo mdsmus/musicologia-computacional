@@ -331,14 +331,16 @@ resolver esse problema com a implementação de segmentação no sistema.
 Neste artigo apresentamos apenas quintas e oitavas consecutivas entre
 segmentos adjacentes. Apesar de \rameau{} possuir um algoritmo para
 detectar quintas e oitavas consecutivas entre segmentos não
-adjacentes, preferimos não incluir o resultado devido a necesidade de
+adjacentes, preferimos não incluir o resultado devido a necessidade de
 refinamento do algoritmo.
 
-O estudo de resolução de sétimas poderia ser beneficiado se algoritmo
-em \rameau{} analisasse o contexto em volta do acorde de sétima de
-maneira dinâmica. Dessa maneira poderia se fazer um estudo mais
-preciso de como sétimas são preparadas e resolvidas. \note{o problema
-  é que a resolucao de 7a pode demorar}
+A análise do tratamento de sétimas em segmentos adjacentes não
+comporta os casos em que há acordes entre o aparecimento da sétima e a
+sua resolução. O estudo de resolução de sétimas poderia ser
+beneficiado se o algoritmo do \rameau{} analisasse o contexto em volta
+do acorde de sétima de maneira dinâmica. Dessa maneira poderia se
+fazer um estudo mais preciso de como sétimas são preparadas e
+resolvidas.
 
 O estudo de cadências pode ser melhorado com a implementação da
 análise funcional no sistema. 
