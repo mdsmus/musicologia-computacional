@@ -31,15 +31,15 @@ consecutivas, cadências frequentes, etc.
 
 Todos esses métodos de análise operam primeiro com a divisão da música
 em \textbf{segmentos mínimos}, onde cada segmento mínimo é um conjunto
-de notas que soam simultaneamente \note{Acho importante dizer que se
-  uma nota é alterada o segmento muda}. Para detectar a resolução das
-sétimas, por exemplo, o \rameau{} primeiro procura todos os segmentos
-mínimos no coral desejado que representam acordes com sétima e
-encontra, nesses segmentos, as notas que são as sétimas dos
-acordes. Feito isso, o \rameau{} olha para o segmento imediatamente
-anterior para ver como essas notas foram preparadas, olha para o
-segmento posterior para ver se elas resolvem imediatamente, e formata
-os dados encontrados.
+de notas que soam simultaneamente. Qualquer alteração nesse conjunto
+-- uma nota iniciando ou terminando, por exemplo -- cria outro
+segmento mínimo. Para detectar a resolução das sétimas, por exemplo, o
+\rameau{} primeiro procura todos os segmentos mínimos no coral
+desejado que representam acordes com sétima e encontra, nesses
+segmentos, as notas que são as sétimas dos acordes. Feito isso, o
+\rameau{} olha para o segmento imediatamente anterior para ver como
+essas notas foram preparadas, olha para o segmento posterior para ver
+se elas resolvem imediatamente, e formata os dados encontrados.
 
 Além disso \rameau{} possui vários outros algoritmos para análise
 harmônica, como o de \cite{pardo.ea00:automated}, outras redes neurais
