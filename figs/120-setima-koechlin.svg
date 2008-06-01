@@ -2376,7 +2376,7 @@
     </font>
   </defs>
   <g
-     id="g17810">
+     id="g3759">
     <g
        id="g17692">
       <g
@@ -2883,12 +2883,10 @@
         </g>
       </g>
     </g>
-    <rect
-       y="3.8029058"
-       x="8.6245232"
-       height="1.9818053"
-       width="11.303631"
-       id="rect16721"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path2788"
+       d="M 8.6979234,4.8305129 C 7.3662638,5.8009196 11.949935,7.978246 15.964543,6.2618168 C 16.875172,5.9178191 19.680715,5.4822697 19.781353,4.9773133 C 19.978962,2.1080827 14.716689,5.8285185 12.209933,5.2294088 C 11.100071,4.5340775 11.081638,3.1933493 8.6979234,4.8305129 z "
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
 </svg>
