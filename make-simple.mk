@@ -1,5 +1,5 @@
 NAME = musicologia-computacional-simples
-TEXSRC = body-pt
+TEXSRCS = body-pt.tex
 
 -include ~/lib/make/latex.mk
 -include ~/repositorios/genos-repos/lib/make/latex.mk
