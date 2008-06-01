@@ -27,11 +27,21 @@ partituras são guardadas em arquivos no formato Lilypond
 \cite{nienhuys.ea08:lilypond}, que permite diferenciação de notas
 enarmônicas e geração de partituras bem tipografadas. As notas são
 extraídas das partituras e apresentadas a uma rede neural, que associa
-cada conjunto de notas a um acorde. \note{Qual trabalho? o do artigo
-  ou o análise automática?} Para este trabalho, o \rameau{} foi
-extendido para realizar operações comuns de musicologia, como detecção
-de cruzamentos, quintas ou oitavas consecutivas, cadências frequentes,
-etc.
+cada conjunto de notas a um acorde.  Para coletar os dados usados
+neste artigo o \rameau{} foi extendido para realizar operações comuns
+de musicologia, como detecção de cruzamentos, quintas ou oitavas
+consecutivas, cadências frequentes, etc.
+
+Todos esses métodos de análise operam primeiro com a divisão da música
+em \textbf{segmentos mínimos}, onde cada segmento mínimo é um conjunto
+de notas que soam simultaneamente. Para detectar a resolução das
+sétimas, por exemplo, o \rameau{} primeiro procura todos os segmentos
+mínimos no coral desejado que representam acordes com sétima e
+encontra, nesses segmentos, as notas que são as sétimas dos
+acordes. Feito isso, o \rameau{} olha para o segmento imediatamente
+anterior para ver como essas notas foram preparadas, olha para o
+segmento posterior para ver se elas resolvem imediatamente, e formata
+os dados encontrados.
 
 Além disso \rameau{}  possui vários outros algoritmos para análise
 harmônica, como o de \note{Reescrever para tirar duplicidade
