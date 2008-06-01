@@ -39,9 +39,9 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="13.949893"
+     inkscape:zoom="14.530246"
      inkscape:cx="26.501431"
-     inkscape:cy="277.97233"
+     inkscape:cy="277.21932"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:current-layer="svg2" />
@@ -2385,7 +2385,7 @@
     </text>
   </g>
   <g
-     id="g10232">
+     id="g2809">
     <g
        id="g2609"
        transform="matrix(1.757299,0,0,1.757299,38.772833,21.53798)">
@@ -2966,15 +2966,5 @@
          x="0.083492428"
          id="tspan8559"
          sodipodi:role="line">12</tspan></text>
-    <path
-       transform="translate(-3.03088,-4.618528)"
-       d="M 38.415242 9.5781898 A 3.790498 4.5194402 0 1 1  30.834246,9.5781898 A 3.790498 4.5194402 0 1 1  38.415242 9.5781898 z"
-       sodipodi:ry="4.5194402"
-       sodipodi:rx="3.790498"
-       sodipodi:cy="9.5781898"
-       sodipodi:cx="34.624744"
-       id="path8726"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.53149605;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:type="arc" />
   </g>
 </svg>

@@ -40,8 +40,8 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="9.1172163"
-     inkscape:cx="38.773522"
-     inkscape:cy="273.8023"
+     inkscape:cx="36.773522"
+     inkscape:cy="275.8023"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:current-layer="svg2" />
@@ -2384,11 +2384,10 @@
     </text>
   </g>
   <g
-     id="g19704"
-     transform="translate(-9.3403042,-99.117871)">
+     id="g16703">
     <g
        id="g1789"
-       transform="matrix(1.757299,0,0,1.757299,47.796036,128.63853)">
+       transform="matrix(1.757299,0,0,1.757299,38.455732,29.520659)">
       <rect
          id="rect1791"
          ry="0"
@@ -2399,7 +2398,7 @@
     </g>
     <g
        id="g1825"
-       transform="matrix(1.757299,0,0,1.757299,47.796036,107.2434)">
+       transform="matrix(1.757299,0,0,1.757299,38.455732,8.125529)">
       <rect
          id="rect1827"
          ry="0"
@@ -2410,7 +2409,7 @@
     </g>
     <g
        id="g1841"
-       transform="matrix(1.757299,0,0,1.757299,-22,112.5153)">
+       transform="matrix(1.757299,0,0,1.757299,-31.340304,13.397429)">
       <rect
          id="rect1843"
          ry="0.1"
@@ -2421,7 +2420,7 @@
     </g>
     <g
        id="g1845"
-       transform="matrix(1.757299,0,0,1.757299,-26,112.5153)">
+       transform="matrix(1.757299,0,0,1.757299,-35.340304,13.397429)">
       <rect
          id="rect1847"
          ry="0.1"
@@ -2432,7 +2431,7 @@
     </g>
     <g
        id="g1849"
-       transform="matrix(1.757299,0,0,1.757299,-28,112.5153)">
+       transform="matrix(1.757299,0,0,1.757299,-37.340304,13.397429)">
       <rect
          id="rect1851"
          ry="0.1"
@@ -2443,7 +2442,7 @@
     </g>
     <g
        id="g1853"
-       transform="matrix(1.757299,0,0,1.757299,-28,112.5153)">
+       transform="matrix(1.757299,0,0,1.757299,-37.340304,13.397429)">
       <rect
          id="rect1855"
          ry="0.1"
@@ -2454,7 +2453,7 @@
     </g>
     <g
        id="g1857"
-       transform="matrix(1.757299,0,0,1.757299,-28,114.2726)">
+       transform="matrix(1.757299,0,0,1.757299,-37.340304,15.154729)">
       <rect
          id="rect1859"
          ry="0.1"
@@ -2464,7 +2463,7 @@
          x="45.311234" />
     </g>
     <g
-       transform="matrix(1.206408,0,0,1,-2.0547917,0)"
+       transform="matrix(1.206408,0,0,1,-11.395096,-99.117871)"
        id="g8627">
       <g
          transform="matrix(0.5542485,0,0,1.757299,9.9999999,110.758)"
@@ -2579,7 +2578,7 @@
     </g>
     <g
        id="g1913"
-       transform="matrix(1.757299,0,0,1.757299,-28,133.91043)">
+       transform="matrix(1.757299,0,0,1.757299,-37.340304,34.792559)">
       <rect
          id="rect1915"
          ry="0.1"
@@ -2590,7 +2589,7 @@
     </g>
     <g
        id="g1917"
-       transform="matrix(1.757299,0,0,1.757299,-28,135.66773)">
+       transform="matrix(1.757299,0,0,1.757299,-37.340304,36.549859)">
       <rect
          id="rect1919"
          ry="0.1"
@@ -2601,7 +2600,7 @@
     </g>
     <g
        id="g1937"
-       transform="matrix(1.757299,0,0,1.757299,47.796036,117.94097)">
+       transform="matrix(1.757299,0,0,1.757299,38.455732,18.823099)">
       <rect
          id="rect1939"
          ry="0"
@@ -2612,7 +2611,7 @@
     </g>
     <g
        id="g2115"
-       transform="matrix(1.757299,0,0,1.757299,11.405839,126.88123)">
+       transform="matrix(1.757299,0,0,1.757299,2.0655348,27.763359)">
       <text
          id="text2117"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -2622,7 +2621,7 @@
     </g>
     <g
        id="g2121"
-       transform="matrix(1.757299,0,0,1.757299,11.405839,109.0007)">
+       transform="matrix(1.757299,0,0,1.757299,2.0655348,9.882829)">
       <text
          id="text2123"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -2632,7 +2631,7 @@
     </g>
     <g
        id="g2145"
-       transform="matrix(1.757299,0,0,1.757299,9.894562,117.94097)">
+       transform="matrix(1.757299,0,0,1.757299,0.5542578,18.823099)">
       <rect
          id="rect2147"
          ry="0.050000001"
@@ -2643,7 +2642,7 @@
     </g>
     <g
        id="g2293"
-       transform="matrix(1.757299,0,0,1.757299,24.613477,107.2434)">
+       transform="matrix(1.757299,0,0,1.757299,15.273173,8.125529)">
       <rect
          id="rect2295"
          ry="0.039999999"
@@ -2654,7 +2653,7 @@
     </g>
     <g
        id="g2309"
-       transform="matrix(1.757299,0,0,1.757299,22.285084,133.03178)">
+       transform="matrix(1.757299,0,0,1.757299,12.94478,33.913909)">
       <text
          id="text2311"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -2664,7 +2663,7 @@
     </g>
     <g
        id="g2315"
-       transform="matrix(1.757299,0,0,1.757299,22.285084,125.12393)">
+       transform="matrix(1.757299,0,0,1.757299,12.94478,26.006059)">
       <text
          id="text2317"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -2674,7 +2673,7 @@
     </g>
     <g
        id="g2321"
-       transform="matrix(1.757299,0,0,1.757299,24.598002,112.5153)">
+       transform="matrix(1.757299,0,0,1.757299,15.257698,13.397429)">
       <text
          id="text2323"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -2684,7 +2683,7 @@
     </g>
     <g
        id="g2327"
-       transform="matrix(1.757299,0,0,1.757299,22.285084,111.63665)">
+       transform="matrix(1.757299,0,0,1.757299,12.94478,12.518779)">
       <text
          id="text2329"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -2694,7 +2693,7 @@
     </g>
     <g
        id="g2487"
-       transform="matrix(1.757299,0,0,1.757299,52.495251,135.66773)">
+       transform="matrix(1.757299,0,0,1.757299,43.154947,36.549859)">
       <text
          id="text2489"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -2704,7 +2703,7 @@
     </g>
     <g
        id="g2493"
-       transform="matrix(1.757299,0,0,1.757299,35.354057,121.93569)">
+       transform="matrix(1.757299,0,0,1.757299,26.013753,22.817819)">
       <polygon
          style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round"
          id="polygon2495"
@@ -2712,7 +2711,7 @@
     </g>
     <g
        id="g2497"
-       transform="matrix(1.757299,0,0,1.757299,52.495251,127.75988)">
+       transform="matrix(1.757299,0,0,1.757299,43.154947,28.642009)">
       <text
          id="text2499"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -2722,7 +2721,7 @@
     </g>
     <g
        id="g2503"
-       transform="matrix(1.757299,0,0,1.757299,52.495251,115.15125)">
+       transform="matrix(1.757299,0,0,1.757299,43.154947,16.033379)">
       <text
          id="text2505"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -2732,7 +2731,7 @@
     </g>
     <g
        id="g2509"
-       transform="matrix(1.757299,0,0,1.757299,52.495251,112.5153)">
+       transform="matrix(1.757299,0,0,1.757299,43.154947,13.397429)">
       <text
          id="text2511"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -2742,7 +2741,7 @@
     </g>
     <g
        id="g2555"
-       transform="matrix(1.757299,0,0,1.757299,33.383812,107.2434)">
+       transform="matrix(1.757299,0,0,1.757299,24.043508,8.125529)">
       <rect
          id="rect2557"
          ry="0.039999999"
@@ -2753,7 +2752,7 @@
     </g>
     <g
        id="g2571"
-       transform="matrix(1.757299,0,0,1.757299,33.269588,132.15313)">
+       transform="matrix(1.757299,0,0,1.757299,23.929284,33.035259)">
       <text
          id="text2573"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -2763,7 +2762,7 @@
     </g>
     <g
        id="g2577"
-       transform="matrix(1.757299,0,0,1.757299,33.269588,126.00258)">
+       transform="matrix(1.757299,0,0,1.757299,23.929284,26.884709)">
       <text
          id="text2579"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -2773,7 +2772,7 @@
     </g>
     <g
        id="g2583"
-       transform="matrix(1.757299,0,0,1.757299,33.269588,113.39395)">
+       transform="matrix(1.757299,0,0,1.757299,23.929284,14.276079)">
       <text
          id="text2585"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -2783,7 +2782,7 @@
     </g>
     <g
        id="g2589"
-       transform="matrix(1.757299,0,0,1.757299,22.399308,128.63853)">
+       transform="matrix(1.757299,0,0,1.757299,13.059004,29.520659)">
       <rect
          id="rect2591"
          ry="0.039999999"
@@ -2794,7 +2793,7 @@
     </g>
     <g
        id="g2593"
-       transform="matrix(1.757299,0,0,1.757299,24.483778,128.63853)">
+       transform="matrix(1.757299,0,0,1.757299,15.143474,29.520659)">
       <rect
          id="rect2595"
          ry="0.039999999"
@@ -2805,7 +2804,7 @@
     </g>
     <g
        id="g2597"
-       transform="matrix(1.757299,0,0,1.757299,24.712226,107.2434)">
+       transform="matrix(1.757299,0,0,1.757299,15.371922,8.125529)">
       <rect
          id="rect2599"
          ry="0.039999999"
@@ -2816,7 +2815,7 @@
     </g>
     <g
        id="g2601"
-       transform="matrix(1.757299,0,0,1.757299,43.731506,128.63853)">
+       transform="matrix(1.757299,0,0,1.757299,34.391202,29.520659)">
       <rect
          id="rect2603"
          ry="0.039999999"
@@ -2827,7 +2826,7 @@
     </g>
     <g
        id="g2617"
-       transform="matrix(1.757299,0,0,1.757299,41.532812,126.88123)">
+       transform="matrix(1.757299,0,0,1.757299,32.192508,27.763359)">
       <text
          id="text2619"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -2837,7 +2836,7 @@
     </g>
     <g
        id="g2623"
-       transform="matrix(1.757299,0,0,1.757299,33.383812,128.63853)">
+       transform="matrix(1.757299,0,0,1.757299,24.043508,29.520659)">
       <rect
          id="rect2625"
          ry="0.039999999"
@@ -2848,7 +2847,7 @@
     </g>
     <g
        id="g2627"
-       transform="matrix(1.757299,0,0,1.757299,35.468282,128.63853)">
+       transform="matrix(1.757299,0,0,1.757299,26.127978,29.520659)">
       <rect
          id="rect2629"
          ry="0.039999999"
@@ -2858,7 +2857,7 @@
          x="-0.064999998" />
     </g>
     <g
-       transform="matrix(1.757299,0,0,1.757299,65.796036,128.63853)"
+       transform="matrix(1.757299,0,0,1.757299,56.455732,29.520659)"
        id="g8573">
       <rect
          x="0"
@@ -2869,7 +2868,7 @@
          id="rect8575" />
     </g>
     <g
-       transform="matrix(1.757299,0,0,1.757299,65.796036,107.2434)"
+       transform="matrix(1.757299,0,0,1.757299,56.455732,8.125529)"
        id="g8577">
       <rect
          x="0"
@@ -2880,7 +2879,7 @@
          id="rect8579" />
     </g>
     <g
-       transform="matrix(1.757299,0,0,1.757299,65.796036,117.94097)"
+       transform="matrix(1.757299,0,0,1.757299,56.455732,18.823099)"
        id="g8581">
       <rect
          x="0"
@@ -2890,30 +2889,20 @@
          ry="0"
          id="rect8583" />
     </g>
-    <path
-       transform="matrix(1.6215786,0,0,0.4559404,-34.128176,61.407069)"
-       d="M 57.818918 111.58928 A 3.3698142 3.5826445 0 1 1  51.07929,111.58928 A 3.3698142 3.5826445 0 1 1  57.818918 111.58928 z"
-       sodipodi:ry="3.5826445"
-       sodipodi:rx="3.3698142"
-       sodipodi:cy="111.58928"
-       sodipodi:cx="54.449104"
-       id="path8649"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.53149605;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:type="arc" />
     <text
        transform="scale(1.1277121,0.8867512)"
        id="text9620"
-       y="115.41547"
-       x="41.998989"
+       y="3.6390505"
+       x="33.716465"
        style="font-size:3.30551577px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
-         y="115.41547"
-         x="41.998989"
+         y="3.6390505"
+         x="33.716465"
          id="tspan9622"
          sodipodi:role="line">5</tspan></text>
     <g
        id="g15109"
-       transform="matrix(1.757299,0,0,1.757299,-46.4308,112.50666)">
+       transform="matrix(1.757299,0,0,1.757299,-55.771104,13.388789)">
       <rect
          id="rect15111"
          ry="0.1"
@@ -2924,7 +2913,7 @@
     </g>
     <g
        id="g15169"
-       transform="matrix(1.757299,0,0,1.757299,-46.4308,133.90179)">
+       transform="matrix(1.757299,0,0,1.757299,-55.771104,34.783919)">
       <rect
          id="rect15171"
          ry="0.1"
@@ -2935,7 +2924,7 @@
     </g>
     <g
        id="g15173"
-       transform="matrix(1.757299,0,0,1.757299,-46.4308,135.65909)">
+       transform="matrix(1.757299,0,0,1.757299,-55.771104,36.541219)">
       <rect
          id="rect15175"
          ry="0.1"
@@ -2946,7 +2935,7 @@
     </g>
     <g
        id="g15223"
-       transform="matrix(1.757299,0,0,1.757299,68.94389,137.0342)">
+       transform="matrix(1.757299,0,0,1.757299,59.603586,37.916329)">
       <polygon
          style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round"
          id="polygon15225"
@@ -2954,7 +2943,7 @@
     </g>
     <g
        id="g15279"
-       transform="matrix(1.757299,0,0,1.757299,69.05812,128.62989)">
+       transform="matrix(1.757299,0,0,1.757299,59.717816,29.512019)">
       <rect
          id="rect15281"
          ry="0.039999999"
@@ -2965,7 +2954,7 @@
     </g>
     <g
        id="g15283"
-       transform="matrix(1.757299,0,0,1.757299,71.14259,128.62989)">
+       transform="matrix(1.757299,0,0,1.757299,61.802286,29.512019)">
       <rect
          id="rect15285"
          ry="0.039999999"
@@ -2976,7 +2965,7 @@
     </g>
     <g
        id="g15287"
-       transform="matrix(1.757299,0,0,1.757299,69.05812,107.23476)">
+       transform="matrix(1.757299,0,0,1.757299,59.717816,8.116889)">
       <rect
          id="rect15289"
          ry="0.039999999"
@@ -2987,7 +2976,7 @@
     </g>
     <g
        id="g15341"
-       transform="matrix(1.757299,0,0,1.757299,76.08169,128.62989)">
+       transform="matrix(1.757299,0,0,1.757299,66.741386,29.512019)">
       <rect
          id="rect15343"
          ry="0.039999999"
@@ -2998,7 +2987,7 @@
     </g>
     <g
        id="g15357"
-       transform="matrix(1.757299,0,0,1.757299,75.96747,135.65909)">
+       transform="matrix(1.757299,0,0,1.757299,66.627166,36.541219)">
       <text
          id="text15359"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -3008,7 +2997,7 @@
     </g>
     <g
        id="g15763"
-       transform="matrix(1.757299,0,0,1.757299,71.14259,107.23476)">
+       transform="matrix(1.757299,0,0,1.757299,61.802286,8.116889)">
       <rect
          id="rect15765"
          ry="0.039999999"
@@ -3019,7 +3008,7 @@
     </g>
     <g
        id="g15779"
-       transform="matrix(1.757299,0,0,1.757299,68.94389,129.50854)">
+       transform="matrix(1.757299,0,0,1.757299,59.603586,30.390669)">
       <text
          id="text15781"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -3029,7 +3018,7 @@
     </g>
     <g
        id="g15785"
-       transform="matrix(1.757299,0,0,1.757299,68.94389,125.99394)">
+       transform="matrix(1.757299,0,0,1.757299,59.603586,26.876069)">
       <text
          id="text15787"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -3039,7 +3028,7 @@
     </g>
     <g
        id="g15791"
-       transform="matrix(1.757299,0,0,1.757299,68.94389,112.50666)">
+       transform="matrix(1.757299,0,0,1.757299,59.603586,13.388789)">
       <text
          id="text15793"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">
@@ -3049,7 +3038,7 @@
     </g>
     <g
        id="g15797"
-       transform="matrix(1.757299,0,0,1.757299,68.94389,110.74936)">
+       transform="matrix(1.757299,0,0,1.757299,59.603586,11.631489)">
       <text
          id="text15799"
          style="font-size:4px;fill:currentColor;font-family:Emmentaler">

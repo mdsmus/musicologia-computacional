@@ -2384,7 +2384,7 @@
     </text>
   </g>
   <g
-     id="g10515">
+     id="g117917">
     <g
        id="g829"
        transform="matrix(1.757299,0,0,1.757299,31.326485,31.454699)">
@@ -3106,15 +3106,5 @@
          x="30.937614"
          id="tspan10493"
          sodipodi:role="line">1</tspan></text>
-    <path
-       transform="translate(0.3237501,0.7554169)"
-       d="M 38.957936 24.726109 A 3.0756266 7.1225038 0 1 1  32.806682,24.726109 A 3.0756266 7.1225038 0 1 1  38.957936 24.726109 z"
-       sodipodi:ry="7.1225038"
-       sodipodi:rx="3.0756266"
-       sodipodi:cy="24.726109"
-       sodipodi:cx="35.882309"
-       id="path10513"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.42519686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:type="arc" />
   </g>
 </svg>
