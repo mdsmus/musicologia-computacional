@@ -307,8 +307,59 @@ terminam em meia-cadência.
 \section{Avaliação}
 \label{sec:avaliacao}
 
+\rameau{} verifica e interpreta corretamente dados como âmbitos e
+cruzamento de vozes. Nós pudemos verificar, por exemplo, que mais da
+metade dos corais possuem algum tipo de cruzamento
+\ref{sec:cruzamento-de-vozes}.
+
+Os acordes de sexta aumentada foram encontrados por um algoritmo que
+busca pelo intervalo específico de sexta aumentada dentro de um
+segmento. Isso significa que \rameau{} não encontrará um acorde de
+sexta aumentada se ao notas que formam o intervalo de sexta aumentada
+estiverem em segmentos diferentes (como em um arpejo). Isso não é
+problema sério em uma composição no estilo coral, mas esperamos
+resolver esse problema com a implementação de segmentação no sistema.
+
+Neste artigo apresentamos apenas quintas e oitavas consecutivas entre
+segmentos adjacentes. Apesar de \rameau{} possuir um algoritmo para
+detectar quintas e oitavas consecutivas entre segmentos não
+adjacentes, preferimos não incluir o resultado devido a necesidade de
+refinamento do algoritmo.
+
+O estudo de resolução de sétimas poderia ser beneficiado se algoritmo
+em \rameau{} analisasse o contexto em volta do acorde de sétima de
+maneira dinâmica. Dessa maneira poderia se fazer um estudo mais
+preciso de como sétimas são preparadas e resolvidas. \note{o problema
+  é que a resolucao de 7a pode demorar}
+
+O estudo de cadências pode ser melhorado com a implementação da
+análise funcional no sistema. 
+
 \section{Conclusão e trabalhos futuros}
 \label{sec:concl-e-trab}
+
+Nesse artigo apresentamos um estudo de alguns elementos musicais nos
+corais de Bach com o auxílio de sistema \rameau{}. Esse tipo de estudo
+é interessante pela precisão e possibilidades de análise fornecidas.
+Por exemplo, nossa análise indica que o soprano alcança a nota mais
+grave em 23 corais. Essa informação pode ser usada para demonstrar
+acordes em posição fechada. Em um outro exemplo, um professor de
+harmonia pode selecionar trechos com resoluções específicas de sétima
+para mostrar aos seus alunos. Naturalmente esses dados poderiam ser
+extraídos manualmente, mas sem dúvida levaria um tempo enorme,
+considerando que são mais de 30000 segmentos no total.
+
+O maior desafio nesse tipo de análise é garantir que os dados de
+entrada estejam 100\% corretos, especialmente em arquivos MIDI.
+Infelizmente o número de erros é frequente. Uma possível solução seria
+a criação de repositórios de arquivos musicais em formatos simbólicos
+para análise. Esse arquivos seriam corrigidos sistematicamente por
+pesquisadores de área. Alguns repositórios existem para composições no
+formato kern (usado pelo Humdrum)\footnote{\url{kern.humdrum.net}} e
+MuseData\footnote{\url{www.musedata.org}}. No final da nossa pesquisa
+esperamos liberar um repositório com todos os corais de Bach no
+formato do Lilypond corrigidos.
+
 
 %%% Local Variables: 
 %%% mode: latex
