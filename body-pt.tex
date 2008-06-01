@@ -7,10 +7,11 @@ Neste trabalho apresentamos o estudo de âmbitos, cruzamento de vozes,
 quintas e oitavas consecutivas, acordes de sexta aumentada, resoluções
 de sétimas, e estudo das cadências finais em 366 dos 371 corais de
 Bach na edição de Riemenschneider \cite{bach41:371}. Cinco corais
-ficaram de fora por problemas na conversão de MIDI para lilypond (ver
-seção \ref{sec:metodologia}). Kostka e Payne \cite{kostka.ea00:tonal}
+ficaram de fora por problemas na conversão de MIDI para Lilypond (ver
+seção \ref{sec:metodologia}). \note{Reescrever para tirar duplicidade
+  de Kostka e Payne} Kostka e Payne \cite{kostka.ea00:tonal}
 foi usado como livro-texto base para comparações de procedimentos
-musicais usuais em classes de harmonia. Nesse trabalho o livro é
+musicais usuais em classes de harmonia. Neste trabalho o livro é
 referido no singular por KP.
 
 \section{Metodologia}
@@ -26,19 +27,21 @@ partituras são guardadas em arquivos no formato Lilypond
 \cite{nienhuys.ea08:lilypond}, que permite diferenciação de notas
 enarmônicas e geração de partituras bem tipografadas. As notas são
 extraídas das partituras e apresentadas a uma rede neural, que associa
-cada conjunto de notas a um acorde. Para este trabalho, o \rameau{}
-foi extendido para realizar operações comuns de musicologia, como
-detecção de cruzamentos, quintas ou oitavas consecutivas, cadências
-frequentes, etc.
+cada conjunto de notas a um acorde. \note{Qual trabalho? o do artigo
+  ou o análise automática?} Para este trabalho, o \rameau{} foi
+extendido para realizar operações comuns de musicologia, como detecção
+de cruzamentos, quintas ou oitavas consecutivas, cadências frequentes,
+etc.
 
 Além disso \rameau{}  possui vários outros algoritmos para análise
-harmônica, como o de Pardo e Birmingham \cite{pardo.ea00:automated},
+harmônica, como o de \note{Reescrever para tirar duplicidade
+  de Pardo e Birmingham} Pardo e Birmingham \cite{pardo.ea00:automated},
 outras redes neurais e classificadores de árvores de decisão e
 k-vizinhos-mais-próximos. Atualmente \rameau{}  está sendo extendido para
 realizar análise funcional de qualquer peça tonal.
 
 Os corais utilizados neste artigo foram extraídos do formato MIDI para
-o lilypond por uma ferramenta automática e depois corrigidos
+o Lilypond por uma ferramenta automática e depois corrigidos
 manualmente para remover erros de enarmonia e notas incorretas. Usamos
 gabaritos manuais de análise harmônica para validar os algoritmos de
 análise, e o algoritmo escolhido para análise de cadências encontra
@@ -51,15 +54,17 @@ corretamente em torno de 98\% dos acordes\footnote{Idem.}.
 \label{sec:ambitos}
 
 Os corais de Bach foram escritos para serem cantados por músicos
-profissionais e não pela congregação \cite{bach41:371}. Isso \note{nao
-  começa com isso} se reflete na textura, cruzamentos e no âmbito
-vocal usado nos corais. A figura \ref{fig:ambito-kostka} mostra os
-âmbitos sugeridos por KP e os utilizados por Bach nos corais
-analizados. Bach amplia o âmbito de soprano e tenor em uma segunda
-maior ascendente, e o do contralto em uma segunda maior descendente. A
-voz do baixo tem ampliação de uma terça maior em ambas direções
-(comparando com KP). A tabela \ref{tab:notas-extremas} lista os corais
-onde as notas mais agudas e graves ocorrem em cada voz.
+profissionais e não pela congregação \cite{bach41:371} \note{não gosto
+  de ``escritos para serem cantados''}. Isso \note{nao começa com
+  isso} se reflete na textura, cruzamentos e no âmbito vocal usado nos
+corais. A figura \ref{fig:ambito-kostka} mostra os âmbitos sugeridos
+por KP e os utilizados por Bach nos corais analizados. Bach amplia o
+âmbito de soprano e tenor em uma segunda maior ascendente \note{há uma
+  forma melhor de dizer isso sem usar ascendente e descendente?}, e o
+do contralto em uma segunda maior descendente. A voz do baixo tem
+ampliação de uma terça maior em ambas direções (comparando com KP). A
+tabela \ref{tab:notas-extremas} lista os corais onde as notas mais
+agudas e graves ocorrem em cada voz.
 
 \begin{table}[t]
 \begin{center}
@@ -106,9 +111,10 @@ soprano. De qualquer forma, a grande maioria (85\%) dos cruzamentos
 são curtos (nunca maiores que dois tempos). A análise de cruzamentos
 mostra alguns exemplos interessantes: no coral 35 o contralto é a voz
 mais grave por um breve período de tempo (as vozes do tenor e baixo
-estão acima da voz do contralto) \ref{fig:035-cruzamento}, e no coral
-290 existe um cruzamento simultâneo de baixo com o tenor e do
-contralto com o soprano \ref{fig:290-66-74-cruzamento}.
+estão acima da voz do contralto) (vide figura
+\ref{fig:035-cruzamento}), e no coral 290 existe um cruzamento
+simultâneo de baixo com o tenor e do contralto com o soprano (vide
+figura \ref{fig:290-66-74-cruzamento}).
 
 \begin{figure}
   \centering
@@ -129,9 +135,9 @@ contralto com o soprano \ref{fig:290-66-74-cruzamento}.
 \end{figure}
 
 Os cruzamentos podem ser classificados em duas categorias; para evitar
-quintas e oitavas consecutivas \note{fig} e para manter melhor
-condução de vozes \note{fig}. Contudo inúmeros cruzamentos poderiam
-ser evitados. 
+quintas e oitavas consecutivas \note{Escolher as figuras para este
+  trecho} \note{fig} e para manter melhor condução de vozes
+\note{fig}. Contudo inúmeros cruzamentos poderiam ser evitados.
 
 Em alguns corais com cruzamento entre baixo e tenor, por exemplo 29,
 35 e 76, a edição usada sugere através de uma \textit{ossia} que as
@@ -151,15 +157,17 @@ juntos é pouco representativo (4\%) em comparação com todos os corais
 analisados. Existem 8 quintas e 7 oitavas consecutivas.
 
 Algumas dessas quintas e oitavas ocorrem entre o último acorde de uma
-frase e primeiro acorde da próxima. Isso ocorre nos corais 45 e 46
-(quintas) e 2, 89, e 279 (oitavas). (vide figura \ref{fig:279-oitava})
-Uma possível justificativa é a ``quebra'' de uma frase para
+frase e primeiro acorde da próxima. \note{Não começar com isso} Isso
+ocorre nos corais 45 e 46 (quintas) e 2, 89, e 279 (oitavas) (vide
+figura \ref{fig:279-oitava}) \note{melhorar referência a figura}. Uma
+possível justificativa é a ``quebra'' de uma frase para
 outra. Contudo, a maioria das quintas e oitavas consecutivas (9 no
 total) ocorrem no meio de frases. Todas as oitavas nessa categoria são
 uníssono--oitava ou oitava--uníssono (vide figura
-\ref{fig:oitavas-e-unissonos}). Para o alívio dos professores de
-harmonia, nenhuma dessas oitavas é paralela, mas algumas das quintas
-são: nos corais 4, 46, 71, 266.
+\ref{fig:oitavas-e-unissonos}). \note{``para o alívio'' é muito
+  informal} Para o alívio dos professores de harmonia, nenhuma dessas
+oitavas é paralela, mas algumas das quintas são: nos corais 4, 46, 71,
+266.
 
 \begin{figure}
   \centering
@@ -205,17 +213,17 @@ sexta aumentada francesa (vide figura \ref{fig:sextas-aumentadas}).
 \label{sec:setimas}
 
 Encontramos nos corais de Bach um total de 6297 acordes com sétima.
-Verificamos o tratamento destas sétimas em segmentos adjacentes. Em
-77\% dos casos as sétimas são resolvidas descendentemente e por grau
-conjunto, ou seja, da maneira usual \cite[p. 207]{kostka.ea00:tonal}.
-Nos acordes restantes em geral ocorre uma das quatro situações
-seguintes:
+Verificamos o tratamento destas sétimas em \note{O termo segmento será
+  utilizado neste artigo?} segmentos adjacentes. Em 77\% dos casos as
+sétimas são resolvidas descendentemente e por grau conjunto, ou seja,
+da maneira usual \cite[p. 207]{kostka.ea00:tonal}.  Nos acordes
+restantes em geral ocorre uma das quatro situações seguintes:
 
 \begin{enumerate}
 \item A sétima não é resolvida e se transforma em nota do acorde
   seguinte, que pode ser a própria tétrade ou um novo acorde (16\% dos
   casos). Na figura \ref{fig:120-setima-koechlin} a sétima do acorde
-  de bm7 se transforma na tônica do acorde seguinte, de $A$.
+  de bm7 se transforma na tônica do acorde seguinte, de A.
 \item No segmento seguinte à sétima, uma ou várias notas do acorde são
   tocadas antes da resolução, ou ainda a sétima desaparece. Na figura
   \ref{fig:049-setima-arpejo} há um arpejo antes da resolução.
@@ -266,12 +274,13 @@ apenas 2\% to tipo viiø V I.
 
 Apesar do algoritmo para analisar as cadências finais ser
 relativamente ingênuo, ele identifica de maneira errada 16\% dos
-corais. Por exemplo, a cadência final do coral 362 é I$^6_4$ V7 I, mas
-o algoritmo interpreta a antecipação para a terça do acorde final como
-um acorde menor do terceiro grau (iii). Além disso, como o algoritmo
-sempre considera que o acorde final é de tônica, ele classifica
-eroneamente os corais que terminam em acordes diferentes da tônica,
-como os que terminam em meia-cadência.
+corais \note{não entendi a relação entre ingenuidade e erros}. Por
+exemplo, a cadência final do coral 362 é I$^6_4$ V$_7$ I, mas o algoritmo
+interpreta a antecipação para a terça do acorde final como um acorde
+menor do terceiro grau (iii). Além disso, como o algoritmo sempre
+considera que o acorde final é de tônica, ele classifica eroneamente
+os corais que terminam em acordes diferentes da tônica, como os que
+terminam em meia-cadência.
 
 \begin{figure}
   \centering
