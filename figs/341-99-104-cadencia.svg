@@ -13,9 +13,9 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.45.1"
-   sodipodi:docname="segments-341-99-104.svg"
+   sodipodi:docname="341-99-104-cadencia.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:docbase="/home/marcos/profissional/genos/genos-repos/musicologia-computacional/exemplos">
+   sodipodi:docbase="/home/givaldo/genos/repos/musicologia-computacional/figs">
   <metadata
      id="metadata1044">
     <rdf:RDF>
@@ -28,8 +28,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="747"
-     inkscape:window-width="1280"
+     inkscape:window-height="725"
+     inkscape:window-width="1024"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -41,11 +41,11 @@
      id="base"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="9.1627907"
-     inkscape:cx="34.408629"
-     inkscape:cy="17.568184"
+     inkscape:zoom="11.371181"
+     inkscape:cx="26.447281"
+     inkscape:cy="24.784037"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="26"
      inkscape:current-layer="svg2" />
   <defs
      id="defs4">
@@ -2955,4 +2955,14 @@
       </g>
     </g>
   </g>
+  <text
+     xml:space="preserve"
+     style="font-size:2.23708653px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     x="34.726723"
+     y="3.4923859"
+     id="text99155"><tspan
+       sodipodi:role="line"
+       id="tspan99157"
+       x="34.726723"
+       y="3.4923859">17</tspan></text>
 </svg>
