@@ -31,7 +31,8 @@ consecutivas, cadências frequentes, etc.
 
 Todos esses métodos de análise operam primeiro com a divisão da música
 em \textbf{segmentos mínimos}, onde cada segmento mínimo é um conjunto
-de notas que soam simultaneamente. Para detectar a resolução das
+de notas que soam simultaneamente \note{Acho importante dizer que se
+  uma nota é alterada o segmento muda}. Para detectar a resolução das
 sétimas, por exemplo, o \rameau{} primeiro procura todos os segmentos
 mínimos no coral desejado que representam acordes com sétima e
 encontra, nesses segmentos, as notas que são as sétimas dos
@@ -290,7 +291,7 @@ A cadência mais comum é do tipo II V I (36\%), seguida por I V I
 insignificantes. Apenas 3\% dos corais tem a cadência vii°/V V I, e
 apenas 2\% to tipo viiø V I.
 
-O lgoritmo para analisar as cadências finais identifica de maneira
+O algoritmo para analisar as cadências finais identifica de maneira
 errada 16\% dos corais. Por exemplo, a cadência final do coral 362 é
 I$^6_4$ V$_7$ I, mas o algoritmo interpreta a antecipação para a terça
 do acorde final como um acorde menor do terceiro grau (iii). Além
