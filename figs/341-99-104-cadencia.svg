@@ -2965,4 +2965,24 @@
        id="tspan99157"
        x="34.726723"
        y="3.4923859">17</tspan></text>
+  <g
+     transform="matrix(1.757299,0,0,1.757299,40.62902,3.4744052)"
+     id="g5945">
+    <text
+       style="font-size:4px;fill:currentColor;font-family:Emmentaler"
+       id="text855">
+      <tspan
+         id="tspan857"></tspan>
+    </text>
+  </g>
+  <g
+     id="g5949"
+     transform="matrix(-1.757299,0,0,-1.757299,40.739628,35.091662)">
+    <text
+       id="text5951"
+       style="font-size:4px;fill:currentColor;font-family:Emmentaler">
+      <tspan
+         id="tspan5953"></tspan>
+    </text>
+  </g>
 </svg>
