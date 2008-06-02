@@ -1,31 +1,3 @@
-\begin{abstract}
-  Nesse artigo estudamos quintas e oitavas consecutivas, cadências,
-  âmbito de vozes, acordes de sexta aumentada, cruzamento de vozes e
-  resolução de sétimas nos corais de Bach. Essa análise é feita
-  completamente com auxílio de computador, o que permite o
-  processamento de muito mais corais em menos tempo que se tivesse
-  sido feita manualmente.
-
-  Os âmbitos de Bach são fora do esperado, mas isso se explica quase
-  completamente pela audiência desejada ser formada de cantores
-  profissionais. Enquanto a maior parte dos cruzamentos é para evitar
-  quintas e oitavas consecutivas, alguns estranhamente parecem ter
-  apenas função melódica, e com uma simples mudança de oitava em
-  algumas notas seriam evitados. Não existem oitavas paralelas nos
-  corais, mas existem algumas quintas, embora predominantemente no
-  final de frases. Os corais apresentam ao todo três acordes de sexta
-  aumentada, todos em lugares esperados. Enquanto a maior parte das
-  sétimas resolve normalmente, um número significativo (1\%) resolve
-  ascendentemente. As cadências são como esperado, com a maior parte
-  dos corais terminando em um V I.
-
-  Enquanto os âmbitos e os cruzamentos revelam detalhes interessantes,
-  esse artigo explora apenas as primeiras possibilidades de um estudo
-  maior de musicologia computacional, e será melhorado à medida em que
-  o nosso software for refinado.
-
-\end{abstract}
-
 \section{Introdução}
 \label{sec:introducao}
 
@@ -35,8 +7,9 @@ exemplos na literatura como o uso de vida artificial e algoritmos
 evolutivos para estudar a evolução de ritmos e sistemas emocionais
 \cite{coutinho05:conputational}, o uso de técnicas de mineração de
 dados e aprendizado de máquina \cite{hartmann07:interactive}, e o
-reconhecimento de estilos musicais \note{cita Kranenburg}. Alguns
-artigos discutem o papel da computação na musicologia
+reconhecimento de estilos musicais
+\cite{kranenburg04:_music_style_recog_quant_approac}. Alguns artigos
+discutem o papel da computação na musicologia
 \cite{kugel92:beyond,honing04:comeback,cook05:towards}.
 
 Neste trabalho apresentamos o estudo de âmbitos, cruzamento de vozes,
@@ -99,11 +72,10 @@ corretamente em torno de 98\% dos acordes\footnote{Idem.}.
 \label{sec:ambitos}
 
 Os corais de Bach foram escritos para serem cantados por músicos
-profissionais e não pela congregação \cite{bach41:371} \note{não gosto
-  de ``escritos para serem cantados'' kroger: sugestoes?}. Esse fato
-se reflete na textura, cruzamentos e no âmbito vocal usado nos corais.
-A figura \ref{fig:ambito-kostka} mostra os âmbitos sugeridos por KP e
-os utilizados por Bach nos corais analisados. Bach amplia o âmbito de
+profissionais e não pela congregação \cite{bach41:371}. Esse fato se
+reflete na textura, cruzamentos e no âmbito vocal usado nos corais. A
+figura \ref{fig:ambito-kostka} mostra os âmbitos sugeridos por KP e os
+utilizados por Bach nos corais analisados. Bach amplia o âmbito de
 soprano e tenor em uma segunda maior ascendente, e o do contralto em
 uma segunda maior descendente. A voz do baixo tem ampliação de uma
 terça maior em ambas direções (comparando com KP). A tabela

@@ -1,0 +1,24 @@
+  Nesse artigo estudamos quintas e oitavas consecutivas, cadências,
+  âmbito de vozes, acordes de sexta aumentada, cruzamento de vozes e
+  resolução de sétimas nos corais de Bach. Essa análise é feita
+  completamente com auxílio de computador, o que permite o
+  processamento de muito mais corais em menos tempo que se tivesse
+  sido feita manualmente.
+
+  Os âmbitos de Bach são fora do esperado, mas isso se explica quase
+  completamente pela audiência desejada ser formada de cantores
+  profissionais. Enquanto a maior parte dos cruzamentos é para evitar
+  quintas e oitavas consecutivas, alguns estranhamente parecem ter
+  apenas função melódica, e com uma simples mudança de oitava em
+  algumas notas seriam evitados. Não existem oitavas paralelas nos
+  corais, mas existem algumas quintas, embora predominantemente no
+  final de frases. Os corais apresentam ao todo três acordes de sexta
+  aumentada, todos em lugares esperados. Enquanto a maior parte das
+  sétimas resolve normalmente, um número significativo (1\%) resolve
+  ascendentemente. As cadências são como esperado, com a maior parte
+  dos corais terminando em um V I.
+
+  Enquanto os âmbitos e os cruzamentos revelam detalhes interessantes,
+  esse artigo explora apenas as primeiras possibilidades de um estudo
+  maior de musicologia computacional, e será melhorado à medida em que
+  o nosso software for refinado.
