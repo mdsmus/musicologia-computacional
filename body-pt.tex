@@ -18,7 +18,7 @@ musical em um tempo curto. A musicologia computacional pode ajudar a
 responder perguntas de pesquisa como quais as cadências mais comuns em
 todas as obras de Beethoven e quais as diferenças de âmbito orquestral
 entre todas as obras de Beethoven, Wagner e R. Strauss. Para fazer a
-análise é necessário que as obras a ser estudadas estejam em um
+análise é necessário que as obras a serem estudadas estejam em um
 formato simbólico como o MIDI, Humdrum
 \cite{huron99:music_resear_using_humdr}, MuseData
 \cite{selfridge-field93:musedata}, ou Lilypond
@@ -135,7 +135,7 @@ podemos ver exemplos das notas mais graves e agudas na voz do baixo.
 \subsection{Cruzamento de vozes}
 \label{sec:cruzamento-de-vozes}
 
-Dos corais analisados, 209 tem cruzamentos entre as vozes (57\%). KP
+Dos corais analisados, 209 têm cruzamentos entre as vozes (57\%). KP
 sugere evitar cruzamentos, principalmente acima do soprano ou abaixo
 do baixo, mas permite o cruzamento breve das linhas de contralto e
 tenor se existir uma razão musical \cite[p. 79]{kostka.ea00:tonal}. De
@@ -170,16 +170,17 @@ com o soprano (figura \ref{fig:290-66-74-cruzamento}).
   \label{fig:coral-003}
 \end{figure}
 
-Os cruzamentos podem ser classificados em duas categorias; para evitar
-quintas e oitavas consecutivas (figura \ref{fig:003-38-42-cruzamento}) e para
-manter melhor condução de vozes (figura \ref{fig:290-66-74-cruzamento}).
-Contudo inúmeros cruzamentos poderiam ser evitados.
+Os cruzamentos podem ser classificados em duas categorias: para evitar
+quintas e oitavas consecutivas (figura \ref{fig:003-38-42-cruzamento})
+e para manter melhor condução de vozes (figura
+\ref{fig:290-66-74-cruzamento}).  Contudo inúmeros cruzamentos
+poderiam ser evitados.
 
 Em alguns corais com cruzamento entre baixo e tenor, por exemplo 29,
 35 e 76, a edição usada sugere através de uma \textit{ossia} que as
 notas do baixo sejam cantadas uma oitava abaixo para evitar o
-cruzamento. Essa sugestão levanta a questão do porque Bach não
-escreveu as notas nessa oitava em primeiro lugar.
+cruzamento. Essa sugestão levanta a questão da razão pela qual Bach
+não escreveu as notas nessa oitava em primeiro lugar.
 
 \subsection{Quintas e oitavas consecutivas}
 \label{sec:quintas-e-oitavas}
@@ -193,8 +194,8 @@ pouco representativo (4\%) em comparação com todos os corais
 analisados. Existem 8 quintas e 7 oitavas consecutivas.
 
 Algumas dessas quintas e oitavas ocorrem entre o último acorde de uma
-frase e primeiro acorde da próxima, como nos corais 45 e 46 (quintas)
-e 2, 89, e 279 (oitavas), como podemos ver na figura
+frase e o primeiro acorde da próxima, como nos corais 45 e 46
+(quintas) e 2, 89, e 279 (oitavas), como podemos ver na figura
 \ref{fig:279-oitava}. Uma possível justificativa é a ``quebra'' de uma
 frase para outra. Contudo, a maioria das quintas e oitavas
 consecutivas (9 no total) ocorre no meio de frases. Todas as oitavas
@@ -326,7 +327,7 @@ errada 16\% dos corais. Por exemplo, a cadência final do coral 362 é
 I$^6_4$ V$_7$ I, mas o algoritmo interpreta a antecipação para a terça
 do acorde final como um acorde menor do terceiro grau (iii). Além
 disso, como o algoritmo sempre considera que o acorde final é de
-tônica, ele classifica eroneamente os corais que terminam em acordes
+tônica, ele classifica erroneamente os corais que terminam em acordes
 diferentes da tônica, como os que terminam em meia-cadência.
 
 \section{Avaliação}
@@ -339,7 +340,7 @@ metade dos corais possuem algum tipo de cruzamento.
 Os acordes de sexta aumentada foram encontrados por um algoritmo que
 busca pelo intervalo específico de sexta aumentada dentro de um
 segmento. Isso significa que \rameau{} não encontrará um acorde de
-sexta aumentada se ao notas que formam o intervalo de sexta aumentada
+sexta aumentada se as notas que formam o intervalo de sexta aumentada
 estiverem em segmentos diferentes (como em um arpejo). Isso não é
 problema sério em uma composição no estilo coral, mas esperamos
 resolver esse problema com a implementação de segmentação no sistema.
@@ -354,9 +355,8 @@ A análise do tratamento de sétimas em segmentos adjacentes não
 comporta os casos em que há acordes entre o aparecimento da sétima e a
 sua resolução. O estudo de resolução de sétimas poderia ser
 beneficiado se o algoritmo do \rameau{} analisasse o contexto em volta
-do acorde de sétima de maneira dinâmica. Dessa maneira poderia se
-fazer um estudo mais preciso de como sétimas são preparadas e
-resolvidas.
+do acorde de sétima de maneira dinâmica. Desse modo poderia se fazer
+um estudo mais preciso de como sétimas são preparadas e resolvidas.
 
 Finalmente, o estudo de cadências pode ser melhorado com a
 implementação da análise funcional no sistema.
