@@ -1,6 +1,5 @@
-NAME = musicologia-computacional-anppom
+NAME = musicologia-computacional-anppom musicologia-computacional-simples
 OTHER += resumo.txt
 TEXSRCS = body-pt.tex
 
--include ~/lib/make/latex.mk
--include ~/repositorios/genos-repos/lib/make/latex.mk
+include ~/.latexmk
